@@ -1,9 +1,9 @@
 import { Asset } from "expo-asset";
 
-export const ambaDeviKakadAarti = Asset.fromModule(
+export const kakadAarti1 = Asset.fromModule(
   require("../../docs/kakad-aarti/amba_devi_kakad_aarti.pdf")
 );
 
-export const ekviraDeviKakadAarti = Asset.fromModule(
+export const kakadAarti2 = Asset.fromModule(
   require("../../docs/kakad-aarti/ekwira_devi_kakad_aarti.pdf")
 );
