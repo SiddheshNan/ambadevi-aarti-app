@@ -106,11 +106,12 @@ const HomeScreen = ({ navigation }) => {
 
         <Text
           style={{
-            backgroundColor: "#FFBF00",
+            backgroundColor: "#FFAF00",
             color: "white",
             textAlign: "center",
             paddingVertical: 7.5,
             fontWeight: "bold",
+            fontSize: normalize(13),
           }}
         >
           App by{" "}
@@ -134,6 +135,8 @@ const styles = StyleSheet.create({
     borderColor: "transparent",
     borderWidth: 0,
     borderRadius: 30,
+
+    
   },
   btnContainer: {
     width: "72%",

@@ -1,13 +1,13 @@
 {
   "expo": {
-    "name": "अंबादेवी व एकविरा देवी आरती संग्रह (आरती मंडळ)",
+    "name": "अंबा देवी आरती मंडळ",
     "slug": "aarti-app",
     "version": "0.0.1",
     "orientation": "default",
     "icon": "./assets/icon.png",
     "splash": {
       "image": "./assets/splash.png",
-      "resizeMode": "contain",
+      "resizeMode": "cover",
       "backgroundColor": "#ffffff"
     },
     "updates": {
@@ -22,14 +22,20 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/icon.png",
         "backgroundColor": "#FFFFFF"
       },
       "package": "me.siddhesh.aartiapp1",
       "versionCode": 1
     },
     "web": {
-      "favicon": "./assets/favicon.png"
-    }
+      "favicon": "./assets/icon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "6643a0b1-16c7-49f5-a631-895bc33eaaaa"
+      }
+    },
+    "owner": "siddheshnan"
   }
 }

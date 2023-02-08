@@ -13,6 +13,7 @@ const BookletScreen = ({ route, navigation }) => {
   const { BOOKLET, SEARCH, GETFILE } = fileMap[route.params.type];
 
   const searchRef = React.useRef(null);
+  const flatlistRef = React.useRef(null);
 
   const [searchText, setSearchText] = React.useState("");
   const [items, setItems] = React.useState(BOOKLET);
@@ -35,7 +36,15 @@ const BookletScreen = ({ route, navigation }) => {
     } else {
       const aartiBySearch = SEARCH.search(lowerQueryString);
       setItems(aartiBySearch.map(({ item }) => item));
+
+      console.log(
+        `Found [${aartiBySearch.length}] : [${aartiBySearch
+          .map(({ item }) => item.number)
+          .join(", ")}]`
+      );
     }
+
+    flatlistRef?.current?.scrollToOffset({ animated: true, offset: 0 });
 
     /*
      *    Redundant code - Not needed anymore
@@ -114,22 +123,24 @@ const BookletScreen = ({ route, navigation }) => {
 
   const renderItem = ({ item }) => (
     <Button
-      title={`${item.number}. ${item.name}`}
+      title={`${item.number}. ${item.name.replace(/\\n/g, '\n')}`}
       buttonStyle={{
         borderColor: "#D5D8DC",
+        backgroundColor: "#fff",
+        borderRadius: 7.5,
       }}
-      type="outline"
+      // type="outline"
       raised
       size="lg"
       titleStyle={{
         color: "#f0225e",
-        fontSize: normalize(18),
+        fontSize: normalize(15.5),
       }}
       containerStyle={{
         width: "90%",
         marginHorizontal: 20,
         marginVertical: 7.5,
-        borderRadius: 25,
+        borderRadius: 7.5,
       }}
       onPress={() => openPDF(GETFILE(item.number))}
     />
@@ -146,8 +157,8 @@ const BookletScreen = ({ route, navigation }) => {
             color: "white",
             fontSize: normalize(19),
             fontWeight: "bold",
-            marginTop: 3,
-            marginBottom: 3,
+            marginTop: normalize(3),
+            marginBottom: normalize(3),
           },
         }}
       />
@@ -162,6 +173,7 @@ const BookletScreen = ({ route, navigation }) => {
             round={true}
             inputStyle={{
               backgroundColor: "white",
+              fontSize: normalize(15),
             }}
             containerStyle={{
               backgroundColor: "#EAECEE",
@@ -169,7 +181,7 @@ const BookletScreen = ({ route, navigation }) => {
             }}
             inputContainerStyle={{
               backgroundColor: "white",
-              padding: normalize(2),
+              padding: normalize(2), // search box size! Dont change this
               borderColor: "#AEB6BF",
               borderWidth: 1,
               borderBottomWidth: 1,
@@ -189,6 +201,7 @@ const BookletScreen = ({ route, navigation }) => {
           >
             {items.length ? (
               <FlatList
+                ref={flatlistRef}
                 data={items}
                 renderItem={renderItem}
                 keyExtractor={(item) => item.number}
