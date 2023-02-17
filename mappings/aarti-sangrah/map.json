@@ -10,15 +10,7 @@
       "aagamya manamohini",
       "aaghad lila adhanashini ho",
       "adya kamal lochani",
-      "apurva shobhe sihasani ho",
-      "komal tanu virajita",
-      "koti suryahuni zalakit ho",
-      "kapol ghavaghavit",
-      "kumkum kasturi charchit ho",
-      "kanchan mani mandit",
-      "karni kundal shobhat ho",
-      "kanchuki vilsit",
-      "kase pitambar miravit ho"
+      "apurva shobhe sihasani ho"
     ]
   },
   {
@@ -33,10 +25,7 @@
       "bramhadik vanditi pay",
       "krupa karoni janasi",
       "jadamuda uddharsi bhakta bhave ho",
-      "santasi atmarup desi",
-      "mahishasur mardoni chanda munda bhakshoni",
-      "dushta durjan maroni bhaktisi paloni",
-      "aaisi avatarali bhavani lavannyachi khani"
+      "santasi atmarup desi"
     ]
   },
   {
@@ -45,6 +34,7 @@
     "search_txt": [
       "aarti tripur sundarichi",
       "amba bai renukechi",
+      "aarti tripur sundarichi amba bai renukechi",
       "mastaki kumkumachi shobha",
       "lalati shobhe mruganabha",
       "nasiki mauktikachi prabha",
@@ -53,15 +43,7 @@
       "charan vanditi ambikeche",
       "katyayani yeuni ganpati ki senapati chakit saraswati",
       "vani khuntali ba sheshachi",
-      "varta kay manavachi",
-      "aaisa jicha guna mahima",
-      "nakale kadapi shruti agama",
-      "harihar charan vandi bramha",
-      "anki baisali parshurama",
-      "pahe rahati shushiti",
-      "manorath purvi dasache",
-      "lagali aas tari bhaktas dise aamhas",
-      "gath padli sadguruchi vat davitase charnachi"
+      "varta kay manavachi"
     ]
   },
   {
@@ -71,15 +53,7 @@
       "lava maja lagala",
       "bheda behd kaicha",
       "aala kantala vishayacha",
-      "dhanda mulmayecha",
-      "prapancha khota ha mrugpani lobhe firto prani",
-      "kanya sut dara dhan maze mithya vadito vani",
-      "anti netil he yamadut na ye sange koni",
-      "nirguna renuka kuldevi japlo mi nirwani",
-      "panchabhutacha adhikar kela to satvar",
-      "nayani dekhila aakar avagha to ishwar",
-      "nahi sukha dukkha dehala kaicha aahankar",
-      "pahe parmatma to dhani bhase shunyakar"
+      "dhanda mulmayecha"
     ]
   },
   {
@@ -93,15 +67,7 @@
       "jay jay vighna vitande",
       "survar vardayini chamunde ho",
       "shobati kari kodande",
-      "sundar girivar kulmartande ho",
-      "durjan durmati nikshan",
-      "sajjan sharanagat sanrakshe ho",
-      "trijagatankur kukshe",
-      "durmat kantak sahkul bhakshe ho",
-      "archak premal pakshe",
-      "munijan manas nirgun rakshe ho",
-      "kamalasani kamlakshe",
-      "kamale sarvantari sakshe ho"
+      "sundar girivar kulmartande ho"
     ]
   },
   {
@@ -133,9 +99,7 @@
     "name": "अमरावती वासिनी ।",
     "search_txt": [
       "amravati vasini maj la pav tu nirwani ho",
-      "akhanda tujala dhyati munijan pathati ved purani ho",
-      "kasturi malvata shendur rekhlase bhali ho",
-      "navratnacha har kanthi shobhe to velhali ho"
+      "akhanda tujala dhyati munijan pathati ved purani ho"
     ]
   },
   {
@@ -151,12 +115,7 @@
   {
     "number": "10",
     "name": "पाहीन मी दर्शना । (भैरवी)",
-    "search_txt": [
-      "pahina mi darshana",
-      "shankha chakra nijabhushana ho",
-      "chausasthi she kula avghe deep gheuni ghati ho may",
-      "udho bola udho"
-    ]
+    "search_txt": ["pahina mi darshana", "udo bola udho"]
   },
   {
     "number": "11",
@@ -164,10 +123,7 @@
     "search_txt": [
       "tulja ho maya raja hi tulja",
       "charani das padle",
-      "ambe charani anavat vaje jay jay tulja",
-      "raja hi tulja",
-      "krupavanta anubhuti mate",
-      "aho charni daas he tulje"
+      "ambe charani anavat vaje jay jay tulja"
     ]
   },
   {
@@ -183,12 +139,7 @@
       "pratipade pasuni ghata sthapana karuni ho",
       "bramha vishnu mahesh tuze pujan kariti ho",
       "udho mhanava udho ambabai mauli cha ho",
-      "anande khelasi kay mahima varnu ticha ho",
-      "dwitiyeche divashi milati chaushasta yogini ho",
-      "sakalamahde shreshta parashuramachi janani ho",
-      "kastori malvat bhangi shendur bharila ho",
-      "udokar garjati sakal chamunda miloni ho",
-      "triteyeche divshi baine shrungar mandila ho"
+      "anande khelasi kay mahima varnu ticha ho"
     ]
   },
   {
@@ -199,11 +150,7 @@
       "om jayo jayo maa jagadambe",
       "om jay om jay om maa jagadambe",
       "jay adhya shakti maa jay aadya shakti",
-      "akanda bramhand nipavya padave pandit ma",
-      "dwitiya be swarup shivshakti janu",
-      "bramha ganpati gaye har gaye har ma",
-      "tritiya tranaswarup shiv tribhuvan ma betha",
-      "trayastha ki triveni tu triveni ma"
+      "akanda bramhand nipavya padave pandit ma"
     ]
   },
   {
@@ -221,31 +168,16 @@
     "name": "ऐसी आरती होतसे",
     "search_txt": [
       "aaisi aarti hotase jana yetase",
-      "sant sajjan koti",
-      "deva rishi aale manava aale danava",
-      "aho bai cha bheti",
-      "aeisi arti hotase jan yetase",
-      "dongari deep pajali deep ujali",
-      "deep ujaloni vela",
-      "bhavatal divtya lagati",
-      "vadye vajati vela"
+      "aaise aarti hot ase jana yet ase",
+      "aeisi arti hotase jan yetase"
     ]
   },
   {
     "number": "17",
     "name": "आरती ओवाळू । जननीला ।",
     "search_txt": [
-      "aarti oovalu janani la renukamatela",
-      "mahurgadvasi jagatjanani vatsalyachi khani",
-      "mahima varnu tuza kay mukhe varnu matela",
-      "dina jana taraya avatarsi nana rupe dharsi",
-      "nalage paar tula varnita bramha hi to thakala",
-      "survarmuni yogi tuja dhyati karuna stotre gati",
-      "darshan tu desi bhaktala sharnagat jo tujla",
-      "danav nirdalnya rupa dharsi ranchandi tu hosi siharud sada",
-      "ashtabhuja pralayankar tu jwala",
-      "balak adhyani amhi tuze papache shiri ozhe",
-      "aai jagadame sharan tula lagu de payala"
+      "aarti oovalu janani la renuka matela",
+      "aarti ovalu janani la renuka mate la"
     ]
   },
   {
@@ -258,10 +190,7 @@
       "malvati bhali chandra bharla pahuni vrutti bhava harla",
       "mukhane udo udo bola",
       "aasamantat akhil jagatat navhe hridayat",
-      "garjana ghado kahi sachi nirantar charnasi",
-      "taranya bhakta butali ya avatare aadishakti maya",
-      "pragatuni hridati aaj mazya lavite lahar kahi gaya",
-      "harvite gaan bhaan kaya unmani kavan jai vaya"
+      "garjana ghado kahi sachi nirantar charnasi"
     ]
   },
   {
@@ -273,11 +202,7 @@
       "shrustivar hindata panthi dekhili ekachi naar o",
       "sola sahastra avatar dharun mhane mi kurnakar o",
       "jalavari aasan agnivari ti nidra kari o",
-      "daityavar todar ubhi meruchi shikhari o",
-      "dusariya vele amba aarud hastivari o",
-      "ashtabhuja miraviti trishul damru triche kari o",
-      "gala rudamala mukhi agnijwala dhari o",
-      "ashuddha ghe ghataghata ubhi bhagirathi che tali ho"
+      "daityavar todar ubhi meruchi shikhari o"
     ]
   },
   {
@@ -289,12 +214,7 @@
       "staviti jana asur taap jaya lagale bhagavati guna gaya",
       "aaradhan kariti bhuvanasi",
       "bhavanigun katha staviti gyan katha pavati gyan mithya",
-      "nivari bhavabhranti sevakachi vruttikari shanti sevakachi",
-      "devichi aagadha hi karni stavan karatasi aali dharni",
-      "mari mahishasur dhari charni sakal asur pran harni",
-      "asur vesanadhi dur karni",
-      "nishumbhadika maari amika sakalakari sukha",
-      "marduni sakal dannavasi nivari shija manvachi"
+      "nivari bhavabhranti sevakachi vruttikari shanti sevakachi"
     ]
   },
   {
@@ -305,11 +225,7 @@
       "trikon yantrakar ambe gad tuza sandar ho",
       "jwala nene dwar gupta aahe bramhananda ho",
       "mana vinzal tirtha kaise shobhat aahe sthir ho",
-      "panchapran jyoti divtya lavanyasahit ho",
-      "adbhut he dongar aasha trushna dekhe khore ho",
-      "pudhe pahu jata shok bhayache dhandore ho",
-      "kamakrodha dika vyaghrarupri mahavrunde ho",
-      "sant samagam yoge mya dekhile matapur ho"
+      "panchapran jyoti divtya lavanyasahit ho"
     ]
   },
   {
@@ -320,12 +236,7 @@
       "sihasani ubhi sunil gabha koti balark divya aabha",
       "pahta bhatka amit shobha takiti dravanadik lobha",
       "bhaktajan kirti parisuniya taki nijlok harijan shok deyi sadlok",
-      "mansi aaicha bahugamla jo nar padambuji ramla",
-      "kamla naam sada smarata na badhi tyasi kada smarata",
-      "vratha ya abhimani marta jail vrarthachi hi narta",
-      "mhanuniya sharan ridha tijla",
-      "karuni padi naman aarpuni suman vishay he vaman",
-      "manuni sansar sharamla taki haripadi sevi vimla"
+      "mansi aaicha bahugamla jo nar padambuji ramla"
     ]
   },
   {
@@ -336,11 +247,7 @@
       "ujalonni hridaya gyan jyoti lavu vishaymoha vati",
       "smaruni mangalgun chitti karu ekagra sakalvrutti",
       "vivek aakalun svamati jeevan he apurva nijpriti",
-      "chalo ho bhakti karu ichi tripur sundari renukeche",
-      "mani he jadle ambe charne vege zali durit hani",
-      "range nisidini gundani tehe hoy dhanya vani",
-      "tuajvin anya nase koni dina tari tu nirwani",
-      "bhave kaas dharu ichi tripursundari renukechi"
+      "chalo ho bhakti karu ichi tripur sundari renukeche"
     ]
   },
   {
@@ -352,11 +259,7 @@
       "baraya tera sajati pude renuchi duhiti",
       "haar gala kavadiyancha mugutamani bahu ratnacha",
       "lagena anta jicha yogi yagna arpiti pancha",
-      "mohanmaya adishakti ved neti neti bolti",
-      "mohinirup dharan kele bhasmasura tadan kele",
-      "hemgouri duhita soubhagiyale thor anand garjiyele",
-      "shankar bramha vishnu pujiti narard ubha sanmukh gati",
-      "upama saje chandanyachi jaise pankaj kamalinichi"
+      "mohanmaya adishakti ved neti neti bolti"
     ]
   },
   {
@@ -368,15 +271,7 @@
       "ashtotar shat tirthe hi nirmele ho aai",
       "navanathasi ho kaliyugi shabari vidya deyi",
       "jadmud taraya basli ho bhakta prema lavi",
-      "gajmukhi herambe jagadambe jay ho jay shri ambe",
-      "sanmukh purvesi baisale markandeya muni",
-      "saptashatichya pathacha parishe madur dwani",
-      "shivalay tirthi snanasi karito dev muni",
-      "durge mularambhe jagadambe ",
-      "parvat shikhari dwajahi chaitri kojagiri",
-      "hiravi paithani nesali bahu alankari",
-      "nath sarjyachi nashiki saragalasari",
-      "bharurangi range jagadambe jay ho jay shri ambe"
+      "gajmukhi herambe jagadambe jay ho jay shri ambe"
     ]
   },
   {
@@ -387,15 +282,7 @@
       "bhimkachi ji kul amba yeuni baisali jagadamba",
       "teje lopavi ravi bimba lajavi chandramukha amba",
       "nesali pitambara pivla lyali kancholi gala garasoli lavili bhali",
-      "malvat keshari sara bhangi bharlya shendura",
-      "rukhmini pujitase amba sthapuni sanidhya jalkumbha",
-      "lavuni kardalichya stambha thevi sanidhya falarambha",
-      "shobhati ikshudanda tya varti",
-      "bandhuni mal vajavi tal lavi deepmal",
-      "jogava maguni ghe sara gondhal ghalin parivara",
-      "prarthi bhimak nrup bala dakhavi janani gopala",
-      "nyahaluni pahe nejdola ghatlya sumanancha mala",
-      "bhetta ramanath pahi"
+      "malvat keshari sara bhangi bharlya shendura"
     ]
   },
   {
@@ -406,17 +293,7 @@
       "hari kalpanti kari shayana sagari nabhi kamalsadana",
       "prarthana kari chaturvadana karaya madhukaitabha hanana",
       "ghei dhav vishnumaye zani yevuni bhaya varuni aasur maruni",
-      "ambe tari tari majla vadata abhay dile tyala",
-      "jinkun sarva deva samari mahishasur to rajyakari",
-      "pavle kopa shambhu hari sakal sur anshe divya nari",
-      "hovuni mahishasur vadhila",
-      "haruni aapada soukya sampadha sura de sada",
-      "hota te nat tav payi mahishasur mardini aai",
-      "vadhile shumba nishumbhasi anik dushta daitya tyasi",
-      "rakshile nijabhakta janasi sarvada deuni vijayasi",
-      "ambe mahima tava gata",
-      "hoi anand tuthe bhavbandha gyan makarand",
-      "houni mukt kari majala daas ha krushna sharan tujla"
+      "ambe tari tari majla vadata abhay dile tyala"
     ]
   },
   {
@@ -429,12 +306,7 @@
       "jarichi hiravi kancholi",
       "kumkumtilak thalak nidhali",
       "uthi keshri ani kasturi dise gojori",
-      "murtich paramanandachi devi mahalaxmichi",
-      "kanthi haar champakacha gulab jai mogaricha",
-      "tasach moutikya rantnacha vaksha sthali shobhe sacha",
-      "vadani mandasmit vilse nijajana sukhavi vishvase",
-      "khadag chakra dhari taapdukhha hari adya nashkari",
-      "krupalu mauli dinachi devi mahalaxmi chi"
+      "murtich paramanandachi devi mahalaxmichi"
     ]
   },
   {
@@ -446,12 +318,7 @@
       "harihar mangal aarambhe pujiti twatpad avilambe",
       "varniti guna ved chari",
       "devamuni rava dharuni drud bhava gheti padi dhav",
-      "kariti aas darshanachi mata jagapalak sachi",
-      "kati pat tapta hemavarni kanchuki haar pachuvarni",
-      "mudra khadi nilvarni manimay balya kap karni",
-      "vilase chandrahar kanthi",
-      "shashisama vadan pahata nayan hoti tallin",
-      "karantari shobha kankanachi mastaki jali motiyachi"
+      "kariti aas darshanachi mata jagapalak sachi"
     ]
   },
   {
@@ -474,11 +341,7 @@
     "search_txt": [
       "aarati karu ya ekavira chi gauni mana manjula swaranchi",
       "swami janardana keli bhakti pragati karuna karuni shakti",
-      "tari tanaya deuni tuzi preme gau bhavagitanchi",
-      "divyadhyan he tarak tuze aghaharak sukha karak saje",
-      "shiri mukuti kari varada viraje gala shobhe mala horanchi",
-      "charni maza bhav sthirava sada muda mana mantra smarava",
-      "dasa preme ha var dyava krupa kari nija punya karanchi"
+      "tari tanaya deuni tuzi preme gau bhavagitanchi"
     ]
   },
   {
@@ -491,12 +354,7 @@
       "bhali kora kunkavachi kanthi mala sumananchi",
       "mastaki mukut suvarnacha",
       "kundale haar talapati far vividha alankar",
-      "kambarpatta kamret baisali may amarpurit",
-      "jagatachi shakti tu khari tuch bramha shiv hari",
-      "ashtabuja rupasi dhari marila mahishasur bhari",
-      "ghetla vesh janaki cha ",
-      "ram bhulvun pan to karun aalis dhavun",
-      "tukai devi majasi tu sambhali"
+      "kambarpatta kamret baisali may amarpurit"
     ]
   },
   {
@@ -506,25 +364,19 @@
       "amba fulachi",
       "amba kulachi",
       "ekvira ekvira swarga tara tuzi mahima",
-      "shankara kailasa shikhara",
-      "pratham ambeche deula avaghe gangajala"
+      "shankara kailasa shikhara"
     ]
   },
   {
     "number": "34",
     "name": "आरती ब्रह्मकुमारीला ।",
     "search_txt": [
-      "aarti bramha kumari la wageshari sharadela",
+      "aarti bramha kumari la vageshwari sharadela",
       "nirmala shweta komalanga trigunatmika purna ranga",
       "satkati punya dharma sanga avidya pap tap bhanga",
       "mukhanbuja chandra bimba shobha",
       "kanti sukumar divya sumhaar kanthi nagbhar",
-      "shobhati bramhacharinila vageshwari shardela",
-      "shankha vidhu kunda dhavalasa tushar prabha indu hasa",
-      "mayuravruta nikat hansa vidhunibha teja bhasa",
-      "kamalasaba shubhra dipti",
-      "vardakar char gyan avatar buddhi aadhar",
-      "chandrika sudharatna bhala vageshwari sharadela"
+      "shobhati bramhacharinila vageshwari shardela"
     ]
   },
   {
@@ -535,11 +387,7 @@
       "pranjyoti tu hi jyoti swaye dehi",
       "aarati owali he jyotirmita devi",
       "suptajytilata tu tu lalita devi tu lalita devi",
-      "jaydevi jaydevi vishvamayi pahi",
-      "anuguna anukanthayi omkarmay devi",
-      "tu bharga tu siddhi tuchi mala pahi",
-      "gudha sulabha hosi diti aditi tu hi",
-      "bhurbuva swadhistani gayatri tu hi"
+      "jaydevi jaydevi vishvamayi pahi"
     ]
   },
   {
@@ -562,11 +410,7 @@
       "vidyudadambha bhas mana trinayana murti suprasanna",
       "moutikya chandra kunda dhavala",
       "kumkum tilak lasadal kamud lalanbin nakshatra malyamuktafala",
-      "brutatula nasika jaichi shobhana nashika jaichi",
-      "chudamani dyuman dipti kargat ratnavalaya pankti",
-      "sangada bhujanchiya kanti varnita chakit kavihi hoti",
-      "vilase nilkrunta lali shruti puti lalit kundale kanchi kititati kinti",
-      "kadhyamukha puti kuchatati suruchi ishwarichi sunkanchuki suruchi ishwarachi"
+      "brutatula nasika jaichi shobhana nashika jaichi"
     ]
   },
   {
@@ -577,38 +421,22 @@
       "udit martanda sahastra jaise bhavyatabhu dipyadipti vikase",
       "shudha jabunak kanak ase atyalankrut mandit vikase",
       "kankanhar nupurachi",
-      "halit padi khanana chalit surmanana galit ripujanana lalait maitanana kirtanachi",
-      "gatnirvyachya nirtanachi",
-      "bramha yama chandra indra tarani prabhanjana agni varun dharani",
-      "isha nairutya shubhasmarani udita niranjana prakarni",
-      "mukuta nijaratna dipamani",
-      "pragata samabhavan zhagat tamayavan sagat kruti havan lagatagatijivan saptadachi kariti kurvadi shi padachi"
+      "halit padi khanana chalit surmanana",
+      "galit ripujanana lalait maitanana",
+      "kirtanachi gatnirvyachya nirtanachi"
     ]
   },
   {
     "number": "39",
     "name": "अंबे चित्सुख कल्पलते।",
     "search_txt": [
-      "ambe chitshukh kalpalate",
-      "jay jay karunamrut sarite",
+      "ambe chitshukh kalpalate jay jay karunamrut sarite",
       "avidya hota tamaharana jahla gyanoday purna",
       "arunodaya raktavarna mukhavar padte ravikiran",
       "ambe tuze namuni charan bhaskar karito pudhe bhraman",
       "sahinyandrivasi siddha purusha",
       "mhanati aamhas ghado ha vaas nako kailas",
-      "pranita pradakshani vahate duje vaikuntha mahivarate",
-      "lopati chandra surya koti tuza suvarna ratna mukuti",
-      "sabhovati motyachi dati lajati shukra guru poti",
-      "kumkum kasturi malvati anupam sundar hanuvati",
-      "angi uti kesharachi",
-      "kamaldalnayan sada shubha vadan supankiradan",
-      "avalokiti bhakta nar te durlabh darshan surpatite",
-      "shobhati alankar gala tyavar pushpanchya mala",
-      "shatpat chapalehuni aagala kase pitambar pivla",
-      "jo nar pahile padakamala to nar sadhu jagi virala",
-      "harihar bramha dev hridayi",
-      "dhariti tava dhyan tyajuni abhiman udale bhaan",
-      "nakale anta naradate bhranti pade saraswati te"
+      "pranita pradakshani vahate duje vaikuntha mahivarate"
     ]
   },
   {
@@ -620,15 +448,7 @@
       "aadinamoshute sakalarambhe aanante",
       "jay udatostu narayani shree bhagavante",
       "jay jay jagadambe ambe param krupavante",
-      "jay shadgunaishwarya alankrut shreemante",
-      "shree mrugarajachal mulapeethasan murti",
-      "satat viraje gaje digyamandali kriti",
-      "nyaniti nitya saraswati yamuna bhagirati",
-      "suravar munijan bhave pujarchan kariti",
-      "mrugut kundale mandit pitambar pivla",
-      "kumkum kajjal keshar uti kankanmala",
-      "kanak stambh maya mandapi shobhe velhala",
-      "trikal hotase mangal bhuvani sukhasohla"
+      "jay shadgunaishwarya alankrut shreemante"
     ]
   },
   {
@@ -640,17 +460,7 @@
       "tuzasam rupa dusre parameshti karita zala kashti",
       "shashiras rasarasla vadanaputi divya sulochan drushti",
       "survarna ratnacha shirimukuti lopati ravi shashikoti",
-      "gajamukhi tuza stavile herambe magal sakararambhe",
-      "kumkum chiri shobhe malavati kasturi tilak lalati",
-      "nasik atisaral hanuvati ruchiramrutaras othi",
-      "saman janu lavlya dhanukoti akaran lochanbhrukuti",
-      "shiri neet bhangawali ufarati karnatakchi dhati",
-      "bujang nilaranga parishobhi veni pathivar lombe",
-      "kankane kanakachi managati divyamudha dashboti",
-      "bajuband nage bahuvati charchuni keshar uti",
-      "sughand pushpanche harkanthi bahu motyanchi dati",
-      "angi navcholi jarikathi pitpitambara tagati",
-      "painjan padakamali ati shobhe bhramar dhavati lobhe"
+      "gajamukhi tuza stavile herambe magal sakararambhe"
     ]
   },
   {
@@ -658,27 +468,12 @@
     "name": "जय जय श्री रेणुके ।\\nअंबे मूळपीठ नायके हो ।",
     "search_txt": [
       "jay jay shree renuke ambe mulpeeth nayake ho",
-      "oovalu aarti akhand saubhagya dayake ho",
+      "ovalu aarti akhand saubhagya dayake ho",
       "prasannavadan sada dwijaraja virajeet rajeev netre ho",
       "bahu gambhir gunapatre tribhuvana pavan parampavitre ho",
       "ratnajadit sinhasan danda morchal chamar chatre ho",
       "katak mukut kundale moutikya manik mani nakshatre ho",
-      "sakalbhushana lankrut sundar gunarajas balake ho",
-      "anandaghan mandapi baisalis swanande anande ho",
-      "tujapudhe geet prabadhe karit tandav shiv bramhanande ho",
-      "shubmangal navaratri vajati parvati suswar vadye ho",
-      "manditi nava pallaav ghat sanak sanandan sammuni vrunde ho",
-      "ghaliti gondhal gondhali sahastra vadanadik boluke ho",
-      "bharajari shal pitambar kajal kumkum kankan chude ho",
-      "chandan pushpe tambul naral limbe sakharpude ho",
-      "survara rangan sambhare riddhi siddhi rabati pudhe ho",
-      "prachandi bali honamali padati chandamunda bapude ho",
-      "tuziya proudh pratape harihar dolaviti mastake ho",
-      "hom havan vidhi ratri navmis purnahuti parane ho",
-      "vijayadashmis zalis ambe vijayi shamidharne ho",
-      "kashtayugayugi sosu keval bhaktancha karne ho",
-      "adimaye tuj padti nanavidarup aakarne ho",
-      "vishnudas mhane jay jay anathdin palake ho"
+      "sakalbhushana lankrut sundar gunarajas balake ho"
     ]
   },
   {
@@ -691,36 +486,20 @@
       "aai bhargavramachi muni jamadagnichi vallabha ho",
       "bhagini shree krushnachi tu yashodechya aalis gharbha ho",
       "durdhar khal mardile saha mahishasur shubha nishumbha ho",
-      "houniya bhillini tyva bhulavile mahadevasi ho",
-      "kamdhenu chintamani angani kalpavruksha dolati ho",
-      "pushpalata ghan shobhati champak bilva kunda malati",
-      "hans kaike shuk kokil pakshi amba amba bolati",
-      "pancha vandan ekanan tuzhiya adhnene chalti ho",
-      "doghe talivar basle doghe bhramati nitya pravasi ho",
-      "kati kar theuni ubhi rahuni shramalis bhimatati ho"
+      "houniya bhillini tyva bhulavile mahadevasi ho"
     ]
   },
   {
     "number": "44",
     "name": "जय जय रेणुके। आई जगदंबे।\\nओवाळू आरती मंगळारंभे।",
-    "search_txt": [
-      "jay jay renuke aai jagadambe oovalu aarati mangalarambhe",
-      "shubhamangalotsav mangalwari mangal vajantri vanjati dwari",
-      "mangalkrut jagar samarambhe oovalu aarti mangalarambhe"
-    ]
+    "search_txt": ["jay jay renuke aai jagadambe ovalu aarati mangalarambhe"]
   },
   {
     "number": "45",
     "name": "जय जय नदिपति।",
     "search_txt": [
       "jay jay nadipati priya tanaye bhavani mahalaxmi maye",
-      "jay jay nadepati preya tanaye bhavani mahalaxmi maye",
-      "aadi khsir sagar rahivasi jay jay kolhapur vasi",
-      "ambe bhuvantrayi bhramasi sada nijavaikunthi vasasi",
-      "durlabh darshan amarasi pavasi kashi mag itarasi",
-      "karunalaye mokshadani",
-      "bhakta je param janati varma sada padi naram",
-      "krupene tyasi sadrupaye sankati rakshasi lavlahe"
+      "jay jay nadepati preya tanaye bhavani mahalaxmi maye"
     ]
   },
   {
@@ -733,11 +512,7 @@
       "din rakshak jagsaksha yashdhwaja chumbit gaganala",
       "atiutkanthit deva muni jana yeti namanala",
       "tarisi tyansi vate he mama kautuk na manala",
-      "udanda tarati majasamanar je durite aacharati",
-      "vishayprapanchi guntuni nar je jagi vaya gele",
-      "te anukampamrut ghanvarshuni tva pavan kele",
-      "chanda munda tav shatru parantu mokshapadi basle",
-      "samprat majprati taraya ka dharili mani adhi ti"
+      "udanda tarati majasamanar je durite aacharati"
     ]
   },
   {
@@ -745,34 +520,24 @@
     "name": "जयदेवी जयदेवी । जय मंगलनिलये।",
     "search_txt": [
       "jay devi jay devi jay mangalnilaye",
-      "oovalu aarti kamalodbhav tanaye",
+      "ovalu aarti kamalodbhav tanaye",
       "anupam sundar gunagambhir komalgatre",
       "mayurarudh virajasi pankajdal netre",
       "shri gangatat basar kshetri supavitre",
-      "vasasi uddharasi jada muda darshan matre",
-      "vina pustak shubhrambar kanchuki saje",
-      "dhup deep naivedya shir sakhar ghrut saje",
-      "chaughade vajantri mrudanga dar vaje",
-      "shravane mokshapuriche ughadit darvaje"
+      "vasasi uddharasi jada muda darshan matre"
     ]
   },
   {
     "number": "48",
     "name": "जय जय शिखरेश्वर भगवंते।",
     "search_txt": [
-      "jay jay shikhareshwar bhagavante bhavani anusuye mate",
+      "jay jay shikhareshwari bhagavante bhavani anusuye mate",
       "kumkum kankan soubhagye aakhandit mandit vimlange",
       "shubhasani shobhasi anurage jaditmani makhar padmarage",
       "padmajatmak mansarange guru dattatraya maya gange",
       "mahasati devahuti tanuja kapil mahamunichi tu anuja",
       "bhavasharamisiddhi tishati riddhi vipul samruddhi",
-      "shangunalankrut shreemante krupa karit anusuye mate",
-      "chitkalanande ardhamatre jay jagajanani jagadhatre",
-      "sagunrup sundar supavitre sada suprasanna padmanetre",
-      "tamra dhwaja torana nakshatre dolti shiri chamarchatre",
-      "sadanandotstav dinratri vajati cougade vajantri",
-      "vedvid bhar kariti boubhat daviti vaat",
-      "yashatpad padmate krupa kari anusuye mate"
+      "shangunalankrut shreemante krupa karit anusuye mate"
     ]
   },
   {
@@ -785,13 +550,7 @@
       "bhu jala teja gagan vara bahu tatvancha parivara",
       "utpati sthiti sanhara lavile ine vidhiharihara",
       "karuni pariman kele nirman jagache pran",
-      "sakalahi shrushti mularambha renuka kulaswamini amba",
-      "durlabh jay devasi dila durjay mahishasur vadhila",
-      "rakte kshitipat rangavila sahastrarjun ghar bhangiyala",
-      "katkat kavuni langeka kulasaha rakshasa kshaya kela",
-      "drupadapuri jahali yadhyaseni karuni viravirahita hi avani",
-      "utarala bhar shourya aapar lagena paar",
-      "suravara maniti achamba renuka kulaswamini amba"
+      "sakalahi shrushti mularambha renuka kulaswamini amba"
     ]
   },
   {

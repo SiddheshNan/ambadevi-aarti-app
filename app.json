@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "अंबा देवी आरती मंडळ",
+    "name": "अंबादेवी आरती मंडळ",
     "slug": "aarti-app",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "orientation": "default",
     "icon": "./assets/icon.png",
     "splash": {

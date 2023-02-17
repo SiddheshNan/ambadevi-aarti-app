@@ -37,11 +37,11 @@ const BookletScreen = ({ route, navigation }) => {
       const aartiBySearch = SEARCH.search(lowerQueryString);
       setItems(aartiBySearch.map(({ item }) => item));
 
-      console.log(
-        `Found [${aartiBySearch.length}] : [${aartiBySearch
-          .map(({ item }) => item.number)
-          .join(", ")}]`
-      );
+      // console.log(
+      //   `Found [${aartiBySearch.length}] : [${aartiBySearch
+      //     .map(({ item }) => item.number)
+      //     .join(", ")}]`
+      // );
     }
 
     flatlistRef?.current?.scrollToOffset({ animated: true, offset: 0 });

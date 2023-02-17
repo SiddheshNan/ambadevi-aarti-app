@@ -7,3 +7,7 @@ export const kakadAarti1 = Asset.fromModule(
 export const kakadAarti2 = Asset.fromModule(
   require("../../docs/kakad-aarti/ekwira_devi_kakad_aarti.pdf")
 );
+
+export const kakadAarti3 = Asset.fromModule(
+  require("../../docs/other/aarti_sangrah.pdf")
+);
