@@ -89,6 +89,7 @@ export const aartiSangrah86 = Asset.fromModule(require("../../docs/aarti-sangrah
 export const aartiSangrah87 = Asset.fromModule(require("../../docs/aarti-sangrah/aarti-sangrah-87.pdf"));
 export const aartiSangrah88 = Asset.fromModule(require("../../docs/aarti-sangrah/aarti-sangrah-88.pdf"));
 export const aartiSangrah89 = Asset.fromModule(require("../../docs/aarti-sangrah/aarti-sangrah-89.pdf"));
+export const aartiSangrah89a = Asset.fromModule(require("../../docs/aarti-sangrah/aarti-sangrah-89a.pdf"));
 export const aartiSangrah90 = Asset.fromModule(require("../../docs/aarti-sangrah/aarti-sangrah-90.pdf"));
 export const aartiSangrah91 = Asset.fromModule(require("../../docs/aarti-sangrah/aarti-sangrah-91.pdf"));
 export const aartiSangrah92 = Asset.fromModule(require("../../docs/aarti-sangrah/aarti-sangrah-92.pdf"));

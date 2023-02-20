@@ -104,26 +104,68 @@ const HomeScreen = ({ navigation }) => {
           </View>
         </ScrollView>
 
-        <Text
-          style={{
-            backgroundColor: "#FFAF00",
-            color: "white",
-            textAlign: "center",
-            paddingVertical: 7.5,
-            fontWeight: "bold",
-            fontSize: normalize(13),
-          }}
-        >
-          App by{" "}
-          <Text
-            onPress={() =>
-              Linking.openURL("https://siddhesh.me").catch(console.log)
-            }
-            style={{ textDecorationLine: "underline" }}
+        <View style={{ height: 30 }}>
+          <View
+            style={{
+              flex: 1,
+              flexDirection: "row", // inner items will be added vertically
+              flexGrow: 1, // all the available vertical space will be occupied by it
+              // justifyContent: "space-between",
+              justifyContent: "center", //Centered horizontally
+              alignItems: "center",
+              backgroundColor: "#FFAF00",
+            
+              paddingHorizontal: normalize(15),
+              // paddingVertical: normalize(13), // the culprit
+            }}
           >
-            Siddhesh Nandurkar
-          </Text>
-        </Text>
+            <View style={{ flex: 1 }}>
+              <Text
+                style={{
+                  color: "#FDFEFE",
+                  fontSize: normalize(13),
+                  fontWeight: "bold",
+                }}
+              >
+                App by{" "}
+                <Text
+                  onPress={() =>
+                    Linking.openURL("https://siddhesh.me").catch(console.log)
+                  }
+                  style={{ textDecorationLine: "underline" }}
+                >
+                  Siddhesh Nandurkar
+                </Text>
+              </Text>
+            </View>
+            <View style={{ flex: 1 }}>
+              <Text
+                style={{
+                  color: "#F7F9F9",
+                  textAlign: "right",
+                  fontWeight: "normal",
+                  fontSize: normalize(11),
+                }}
+              >
+                build version 1.0.0
+              </Text>
+            </View>
+          </View>
+        </View>
+
+        {/*  */}
+
+        {/* <Text
+                style={{
+                  color: "green",
+                  textAlign: "right",
+                  marginTop: 10,
+                  paddingBottom: 10,
+                  
+                }}
+              >
+              
+              </Text> */}
       </SafeAreaView>
     </View>
   );
@@ -135,8 +177,6 @@ const styles = StyleSheet.create({
     borderColor: "transparent",
     borderWidth: 0,
     borderRadius: 30,
-
-    
   },
   btnContainer: {
     width: "72%",

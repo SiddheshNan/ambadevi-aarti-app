@@ -6,7 +6,9 @@ def get_range(start_page, end_page):
     if start_page == end_page:
         return [start_page]
     else:
-        return list(range(start_page, end_page))
+        my_list1 = list(range(start_page, end_page))
+        my_list1.append(end_page)
+        return my_list1
 
 
 pdf = PdfFileReader('aarti-sangrah.pdf')
