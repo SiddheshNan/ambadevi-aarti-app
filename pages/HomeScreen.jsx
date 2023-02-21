@@ -5,24 +5,11 @@ import { SafeAreaView } from "react-native-safe-area-context";
 import { normalize } from "../utils";
 
 const HomeScreen = ({ navigation }) => {
-  //   React.useEffect(() => {
-  //     StatusBar.setHidden(true);
-  //     // StatusBar.setTranslucent(true);
-  //     return () => {
-  //       StatusBar.setHidden(false);
-  //       //   StatusBar.setTranslucent(false);
-  //     };
-  //   }, []);
-
   return (
     <View style={{ width: "100%", height: "100%" }}>
       <HeaderRNE
         elevated={0}
         backgroundColor="#E74C3C"
-        // leftComponent={{
-        //   icon: "menu",
-        //   color: "#fff",
-        // }}
         centerComponent={{
           text: "अंबा देवी आरती मंडळ",
           style: {

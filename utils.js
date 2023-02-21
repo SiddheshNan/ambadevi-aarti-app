@@ -24,7 +24,7 @@ export const normalize = (size) => {
   }
 };
 
-export const openPDF = async (file, goBack = () => {}) => {
+export const openFile = async (file, contentType) => {
   try {
     const localFile = await file.downloadAsync();
     const cUri = await FileSystem.getContentUriAsync(localFile.localUri);
@@ -34,13 +34,9 @@ export const openPDF = async (file, goBack = () => {}) => {
       {
         data: cUri,
         flags: 1,
-        type: "application/pdf",
-        // packageName: "com.google.android.apps.docs",
-        // there could be other pdf viewers other than default drive pdf reader
+        type: contentType,
       }
     );
-
-    goBack();
 
     if (result.resultCode != 0) {
       throw "Error opening file";
@@ -55,6 +51,8 @@ export const openPDF = async (file, goBack = () => {}) => {
     ]);
   }
 };
+
+
 
 export const fuzzySearch = (list) => {
   const options = {
@@ -89,14 +87,14 @@ export const fileMap = {
     BOOKLET: ashtakPustika1Map,
     SEARCH: fuzzySearch(ashtakPustika1Map),
     GETFILE: (num) => {
-      return ashtakPustika1Files[`ashtakPustika${num}`];
+      return ashtakPustika1Files[`ashtakPustika1_${num}`];
     },
   },
   ASHTAK_PUSTIKA_2: {
     BOOKLET: ashtakPustika2Map,
     SEARCH: fuzzySearch(ashtakPustika2Map),
     GETFILE: (num) => {
-      return ashtakPustika2Files[`ashtakPustika${num}`];
+      return ashtakPustika2Files[`ashtakPustika2_${num}`];
     },
   },
   KAKAD_AARTI: {
@@ -106,8 +104,6 @@ export const fileMap = {
       return kakadAartiFiles[`kakadAarti${num}`];
     },
   },
-
- 
 };
 
 export const hasNumber = (myString) => {

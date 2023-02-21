@@ -1,7 +1,6 @@
 import React from "react";
 import HomeScreen from "./pages/HomeScreen";
 import BookletScreen from "./pages/BookletScreen";
-import ImageScreen from "./pages/ImageScreen";
 import { NavigationContainer } from "@react-navigation/native";
 import { createNativeStackNavigator } from "@react-navigation/native-stack";
 import { createTheme, ThemeProvider } from "@rneui/themed";
@@ -31,11 +30,6 @@ export default function App() {
             <Stack.Screen
               name="BookletScreen"
               component={BookletScreen}
-              options={{ animation: "default" }}
-            />
-             <Stack.Screen
-              name="ImageScreen"
-              component={ImageScreen}
               options={{ animation: "default" }}
             />
           </Stack.Navigator>
