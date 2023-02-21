@@ -153,19 +153,6 @@ const HomeScreen = ({ navigation }) => {
           </View>
         </View>
 
-        {/*  */}
-
-        {/* <Text
-                style={{
-                  color: "green",
-                  textAlign: "right",
-                  marginTop: 10,
-                  paddingBottom: 10,
-                  
-                }}
-              >
-              
-              </Text> */}
       </SafeAreaView>
     </View>
   );
