@@ -4,11 +4,6 @@ import { Button, Header as HeaderRNE, SearchBar } from "@rneui/themed";
 import { SafeAreaView } from "react-native-safe-area-context";
 import { openPDF, normalize, fileMap, hasNumber } from "../utils";
 
-// borderRadius: 20,
-// borderWidth: 1,
-// borderColor: "",
-// elevation: 2,
-
 const BookletScreen = ({ route, navigation }) => {
   const { BOOKLET, SEARCH, GETFILE } = fileMap[route.params.type];
 
@@ -36,94 +31,14 @@ const BookletScreen = ({ route, navigation }) => {
     } else {
       const aartiBySearch = SEARCH.search(lowerQueryString);
       setItems(aartiBySearch.map(({ item }) => item));
-
-      // console.log(
-      //   `Found [${aartiBySearch.length}] : [${aartiBySearch
-      //     .map(({ item }) => item.number)
-      //     .join(", ")}]`
-      // );
     }
 
     flatlistRef?.current?.scrollToOffset({ animated: true, offset: 0 });
-
-    /*
-     *    Redundant code - Not needed anymore
-     */
-
-    // const wordsInSearch = lowerQueryString.split(" ");
-    // if (wordsInSearch.length && wordsInSearch[wordsInSearch.length - 1] == "")
-    //   wordsInSearch.pop();
-
-    // // tokanize the words and get their counts
-    // let wordMap = {};
-    // if (splitedWords.length) {
-    //   for (word of splitedWords) {
-    //     if (word in wordMap) {
-    //       wordMap[word] = wordMap[word] + 1;
-    //     } else {
-    //       wordMap[word] = 1;
-    //     }
-    //   }
-    // } else {
-    //   wordMap[lowerQueryString] = 1;
-    // }
-    // console.log(wordMap)
-    // const words = Object.entries(wordMap)
-    // console.log(words);
-
-    // it is a aarti number, just return by the index
-    // if (hasNumber(lowerQueryString)) {
-    //   const aartiMatchedByNumber = BOOKLET.filter((item) => {
-    //     if (item.number.indexOf(lowerQueryString) >= 0) return true;
-    //   });
-    //   setItems(aartiMatchedByNumber);
-    //   return;
-    // }
-
-    // // do simple text search
-    // let filteredAarti = [];
-    // for (let aarti of BOOKLET) {
-    //   let matches = 0;
-    //   for (let text_in_aarti of aarti.search_txt) {
-    //     if (text_in_aarti.includes(lowerQueryString)) matches = matches + 1;
-    //   }
-    //   if (matches) {
-    //     aarti.likeliness = matches;
-    //     filteredAarti.push(aarti);
-    //   }
-    // }
-
-    // if (!filteredAarti.length) {
-    //   console.log("No aarti found at all.. doing in depth search by keyword");
-
-    //   for (let aarti of BOOKLET) {
-    //     let matched = 0;
-
-    //     for (let searchText of aarti.search_txt) {
-    //       for (let word of wordsInSearch) {
-    //         if (searchText.includes(word)) matched += 1;
-    //       }
-    //     }
-
-    //     if (matched) {
-    //       aarti.likeliness = matched;
-    //       filteredAarti.push(aarti);
-    //     }
-    //   }
-    // }
-
-    // filteredAarti.sort((a, b) => (a.likeliness < b.likeliness ? 1 : -1));
-
-    // console.log(
-    //   filteredAarti.map((itm) => `${itm.number}: \t ${itm.likeliness}`)
-    // );
-
-    // setItems(filteredAarti);
   };
 
   const renderItem = ({ item }) => (
     <Button
-      title={`${item.number}. ${item.name.replace(/\\n/g, '\n')}`}
+      title={`${item.number}. ${item.name.replace(/\\n/g, "\n")}`}
       buttonStyle={{
         borderColor: "#D5D8DC",
         backgroundColor: "#fff",
@@ -142,7 +57,12 @@ const BookletScreen = ({ route, navigation }) => {
         marginVertical: 7.5,
         borderRadius: 7.5,
       }}
-      onPress={() => openPDF(GETFILE(item.number))}
+      onPress={() => {
+        if (route.params.kind == "PDF") {
+          openPDF(GETFILE(item.number));
+        } else if (route.params.kind == "IMG") {
+        }
+      }}
     />
   );
 

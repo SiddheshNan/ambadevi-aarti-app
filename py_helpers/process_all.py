@@ -30,9 +30,9 @@ def preprocess(pil_image):
  
     # adaptive = cv2.adaptiveThreshold(img, 255, cv2.ADAPTIVE_THRESH_GAUSSIAN_C, cv2.THRESH_BINARY, 61, 25)
 
-    adjusted = cv2.convertScaleAbs(img, alpha=1.1, beta=8)
+    adjusted = cv2.convertScaleAbs(img, alpha=1.0, beta=8)
 
-    adaptive_rgb = cv2.cvtColor(adjusted, cv2.COLOR_BGR2RGB)
+    adaptive_rgb = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
     img_pil = Image.fromarray(adaptive_rgb)
     
     return img_pil
@@ -40,7 +40,7 @@ def preprocess(pil_image):
 
 def process_and_save(opened_file, img_save_path):
     my_img = preprocess(opened_file)
-    my_img.save(img_save_path)
+    my_img.save(img_save_path, optimize=True, quality=95)
 
 
 root_dir = 'ap1'
@@ -57,11 +57,11 @@ for ashtak_folder in os.listdir(root_dir):
     total_img_files = len(img_files)
     
     if total_img_files == 1:# only one file is there
-        process_and_save(Image.open(img_files[0]), f"converted/{ashtak_folder}.png")
+        process_and_save(Image.open(img_files[0]), f"converted/{ashtak_folder}.jpg")
 
     elif total_img_files == 2:
         merged_img = merge_images_vertically(Image.open(img_files[0]), Image.open(img_files[1]))
-        process_and_save(merged_img, f"converted/{ashtak_folder}.png")
+        process_and_save(merged_img, f"converted/{ashtak_folder}.jpg")
   
     elif total_img_files >= 3:
         merged = merge_images_vertically(Image.open(img_files[0]), Image.open(img_files[1]))
@@ -69,7 +69,7 @@ for ashtak_folder in os.listdir(root_dir):
         for i in range(2, total_img_files):
             merged = merge_images_vertically(merged, Image.open(img_files[i]))
         
-        process_and_save(merged, f"converted/{ashtak_folder}.png")
+        process_and_save(merged, f"converted/{ashtak_folder}.jpg")
 
 
     print("written:",ashtak_folder, f"with {total_img_files} images!")

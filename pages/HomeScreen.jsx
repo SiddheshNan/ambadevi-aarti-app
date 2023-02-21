@@ -58,6 +58,7 @@ const HomeScreen = ({ navigation }) => {
                   navigation.navigate("BookletScreen", {
                     type: "AARTI_SANGRAH",
                     name: "देवी आरती संग्रह",
+                    kind: "PDF",
                   });
                 }}
               />
@@ -71,6 +72,7 @@ const HomeScreen = ({ navigation }) => {
                   navigation.navigate("BookletScreen", {
                     type: "ASHTAK_PUSTIKA_1",
                     name: "अष्टक पुस्तिका 1",
+                    kind: "IMG",
                   });
                 }}
               />
@@ -84,6 +86,7 @@ const HomeScreen = ({ navigation }) => {
                   navigation.navigate("BookletScreen", {
                     type: "ASHTAK_PUSTIKA_2",
                     name: "अष्टक पुस्तिका 2",
+                    kind: "PDF",
                   });
                 }}
               />
@@ -97,6 +100,7 @@ const HomeScreen = ({ navigation }) => {
                   navigation.navigate("BookletScreen", {
                     type: "KAKAD_AARTI",
                     name: "काकड आरती",
+                    kind: "PDF",
                   });
                 }}
               />
@@ -114,7 +118,7 @@ const HomeScreen = ({ navigation }) => {
               justifyContent: "center", //Centered horizontally
               alignItems: "center",
               backgroundColor: "#FFAF00",
-            
+
               paddingHorizontal: normalize(15),
               // paddingVertical: normalize(13), // the culprit
             }}
@@ -152,7 +156,6 @@ const HomeScreen = ({ navigation }) => {
             </View>
           </View>
         </View>
-
       </SafeAreaView>
     </View>
   );
