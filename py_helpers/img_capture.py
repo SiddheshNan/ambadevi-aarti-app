@@ -13,7 +13,7 @@ class Application():
         self.bg = "#00203F"
         self.fg = "#ADEFD1"
 
-        self.ashtak_number_count = 8
+        self.ashtak_number_count = 41
         self.img_count = 1
 
         self.main_window = self.createWindow("Image Capture")
