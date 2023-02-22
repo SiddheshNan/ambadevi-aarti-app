@@ -1,6 +1,7 @@
 import { Dimensions, Platform, PixelRatio, Alert } from "react-native";
 import * as FileSystem from "expo-file-system";
 import * as IntentLauncher from "expo-intent-launcher";
+import * as Linking from "expo-linking";
 import Fuse from "fuse.js";
 import aartiSangrahMap from "./mappings/aarti-sangrah/map.json";
 import ashtakPustika1Map from "./mappings/ashtak-pustika-1/map.json";
@@ -27,7 +28,7 @@ export const normalize = (size) => {
   }
 };
 
-export const openFile = async (file, contentType) => {
+export const openFile = async (file) => {
   try {
     const localFile = await file.downloadAsync();
     const cUri = await FileSystem.getContentUriAsync(localFile.localUri);
@@ -37,16 +38,16 @@ export const openFile = async (file, contentType) => {
       {
         data: cUri,
         flags: 1,
-        type: contentType,
+        type: "application/pdf",
       }
     );
 
     if (result.resultCode != 0) {
-      throw "Error opening file";
+      throw "Error opening file: " + result.resultCode;
     }
   } catch (error) {
     console.log(error);
-    Alert.alert("Error", "Somthing went wrong...", [
+    Alert.alert("Error", `${error.name}: ${error.message}`, [
       {
         text: "Okay",
         onPress: () => {},
@@ -55,7 +56,32 @@ export const openFile = async (file, contentType) => {
   }
 };
 
+export const openImage = async (file) => {
+  try {
+    const localFile = await file.downloadAsync();
+    const cUri = await FileSystem.getContentUriAsync(localFile.localUri);
 
+   
+    await IntentLauncher.startActivityAsync(
+      "android.intent.action.VIEW",
+      {
+        data: cUri,
+        flags: 1,
+        // type: "application/pdf",
+      }
+    );
+
+
+  } catch (error) {
+    console.log(error);
+    Alert.alert("Error1", `${error.name}: ${error.message}`, [
+      {
+        text: "Okay",
+        onPress: () => {},
+      },
+    ]);
+  }
+};
 
 export const fuzzySearch = (list) => {
   const options = {
@@ -78,7 +104,7 @@ export const fuzzySearch = (list) => {
   return fuse;
 };
 
-export const fileMap = {
+export const fileMap = { // TODO: merge 1 and 2 ashtak
   AARTI_SANGRAH: {
     BOOKLET: aartiSangrahMap,
     SEARCH: fuzzySearch(aartiSangrahMap),

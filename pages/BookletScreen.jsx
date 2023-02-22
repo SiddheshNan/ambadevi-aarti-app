@@ -2,7 +2,7 @@ import React from "react";
 import { Text, View, FlatList, KeyboardAvoidingView } from "react-native";
 import { Button, Header as HeaderRNE, SearchBar } from "@rneui/themed";
 import { SafeAreaView } from "react-native-safe-area-context";
-import { normalize, fileMap, hasNumber, openFile } from "../utils";
+import { normalize, fileMap, hasNumber, openFile, openImage } from "../utils";
 
 const BookletScreen = ({ route, navigation }) => {
   const { BOOKLET, SEARCH, GETFILE } = fileMap[route.params.type];
@@ -59,9 +59,9 @@ const BookletScreen = ({ route, navigation }) => {
       }}
       onPress={() => {
         if (route.params.kind == "PDF") {
-          openFile(GETFILE(item.number), "application/pdf");
+          openFile(GETFILE(item.number));
         } else if (route.params.kind == "IMG") {
-          openFile(GETFILE(item.number), "image/jpeg");
+          openImage(GETFILE(item.number));
         }
       }}
     />
