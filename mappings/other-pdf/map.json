@@ -6,7 +6,7 @@
   },
   {
     "number": "2",
-    "name": "महादेवाची आरती ।\n(शिवशंकर गिरीजाधर व्याघ्रांबर धारी)",
+    "name": "श्री महादेवाची आरती ।\n( शिवशंकर गिरीजाधर व्याघ्रांबर धारी )",
     "search_txt": [
       "mahadevachi aarti",
       "shivshankar girijadhar vyaghrambhar dhari",
@@ -17,7 +17,7 @@
   },
   {
     "number": "3",
-    "name": "जनार्दन स्वामी आरती ।\n(आरती गाऊ सुखकरची। जनार्दन स्वामी सद्गुरू ची।)",
+    "name": "श्री जनार्दन स्वामी आरती ।\n( आरती गाऊ सुखकरची।\nजनार्दन स्वामी सद्गुरू ची। )",
     "search_txt": [
       "janardan swami aarti",
       "aarti gau sukha karachi",
@@ -27,12 +27,20 @@
   {
     "number": "4",
     "name": "श्री व्यंकटेश आरती",
-    "search_txt": ["shri vyankatesh aarti"]
+    "search_txt": [
+      "shri vyankatesh aarti",
+      "sheshachal avatar tarak tu deva",
+      "jay dev jay dev jay vyankatesha"
+    ]
   },
   {
     "number": "5",
-    "name": "श्री दत्ताची आरती ",
-    "search_txt": ["shri datta aarti"]
+    "name": "श्री दत्ताची आरती",
+    "search_txt": [
+      "shri datta aarti",
+      "jay dev jay shri guru datta",
+      "aarti ovalita harli bhav chinta"
+    ]
   },
   {
     "number": "6",
@@ -41,7 +49,7 @@
   },
   {
     "number": "7",
-    "name": "शंकराची आरती ।\n(जय जय त्र्यंबकराज गिरिजानाथा गंगाधरा हो)",
+    "name": "श्री शंकराची आरती ।\n( जय जय त्र्यंबकराज गिरिजानाथा गंगाधरा हो )",
     "search_txt": [
       "shankarachi aarti",
       "jay jay trambakraj girijanacha gangadhara ho",
@@ -51,7 +59,7 @@
   },
   {
     "number": "8",
-    "name": "शंकराची आरती ।\n(लवथवती विक्राळा ब्रह्मांडी माळा)",
+    "name": "श्री शंकराची आरती ।\n( लवथवती विक्राळा ब्रह्मांडी माळा )",
     "search_txt": ["shankarachi aarti", "lava thavati vikrala bramhandi mala"]
   },
 

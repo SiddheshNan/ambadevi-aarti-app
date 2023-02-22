@@ -95,30 +95,35 @@ const BookletScreen = ({ route, navigation }) => {
 
       <SafeAreaView style={{ height: "100%", paddingTop: -40 }}>
         <KeyboardAvoidingView style={{ flex: 1, paddingBottom: 0 }}>
-          <SearchBar
-            onChangeText={onSearchType}
-            value={searchText}
-            ref={searchRef}
-            lightTheme={true}
-            round={true}
-            inputStyle={{
-              backgroundColor: "white",
-              fontSize: normalize(15),
-            }}
-            containerStyle={{
-              backgroundColor: "#EAECEE",
-              padding: normalize(10),
-            }}
-            inputContainerStyle={{
-              backgroundColor: "white",
-              padding: normalize(2), // search box size! Dont change this
-              borderColor: "#AEB6BF",
-              borderWidth: 1,
-              borderBottomWidth: 1,
-            }}
-            placeholderTextColor={"#85929E"}
-            placeholder={"Search Here.."}
-          />
+          {route.params.showSearch ? (
+            <SearchBar
+              onChangeText={onSearchType}
+              value={searchText}
+              ref={searchRef}
+              lightTheme={true}
+              round={true}
+              inputStyle={{
+                backgroundColor: "white",
+                fontSize: normalize(15),
+              }}
+              containerStyle={{
+                backgroundColor: "#EAECEE",
+                padding: normalize(10),
+              }}
+              inputContainerStyle={{
+                backgroundColor: "white",
+                padding: normalize(2), // search box size! Dont change this
+                borderColor: "#AEB6BF",
+                borderWidth: 1,
+                borderBottomWidth: 1,
+              }}
+              placeholderTextColor={"#85929E"}
+              placeholder={"Search Here.."}
+            />
+          ) : (
+            <View style={{ paddingVertical: normalize(10) }}></View>
+          )}
+
           <View
             style={{
               flex: 1,

@@ -24,20 +24,19 @@ const HomeScreen = ({ navigation }) => {
       />
 
       <SafeAreaView style={{ height: "100%", flex: 1, paddingTop: -40 }}>
-        <Text
-          style={{
-            textAlignVertical: "center",
-            textAlign: "center",
-            paddingTop: normalize(20),
-            fontWeight: "bold",
-            fontSize: normalize(16),
-            color: "#EE386D"
-          }}
-        >
-          ॥ ॐ प्रणव रुपिणीम् वन्दे ॥
-        </Text>
-
         <ScrollView>
+          <Text
+            style={{
+              textAlignVertical: "center",
+              textAlign: "center",
+              paddingTop: normalize(20),
+              fontWeight: "bold",
+              fontSize: normalize(16),
+              color: "#EE386D",
+            }}
+          >
+            ॥ ॐ प्रणव रुपिणीम् वन्दे ॥
+          </Text>
           <View style={{ flex: 1, height: "100%" }}>
             <View
               style={{
@@ -60,6 +59,7 @@ const HomeScreen = ({ navigation }) => {
                     type: "AARTI_SANGRAH",
                     name: "देवी आरती संग्रह",
                     kind: "PDF",
+                    showSearch: true,
                   });
                 }}
               />
@@ -74,6 +74,7 @@ const HomeScreen = ({ navigation }) => {
                     type: "ASHTAK_PUSTIKA_1",
                     name: "अष्टक पुस्तिका 1",
                     kind: "IMG",
+                    showSearch: true,
                   });
                 }}
               />
@@ -87,7 +88,8 @@ const HomeScreen = ({ navigation }) => {
                   navigation.navigate("BookletScreen", {
                     type: "ASHTAK_PUSTIKA_2",
                     name: "अष्टक पुस्तिका 2",
-                    kind: "PDF",
+                    kind: "IMG",
+                    showSearch: true,
                   });
                 }}
               />
@@ -102,6 +104,7 @@ const HomeScreen = ({ navigation }) => {
                     type: "KAKAD_AARTI",
                     name: "काकड आरती",
                     kind: "PDF",
+                    showSearch: false,
                   });
                 }}
               />
@@ -116,6 +119,7 @@ const HomeScreen = ({ navigation }) => {
                     type: "OTHER_PDF",
                     name: "इतर PDF",
                     kind: "PDF",
+                    showSearch: true,
                   });
                 }}
               />
@@ -134,7 +138,7 @@ const HomeScreen = ({ navigation }) => {
               alignItems: "center",
               backgroundColor: "#FFAF00",
 
-              paddingHorizontal: normalize(15),
+              paddingHorizontal: normalize(16),
               // paddingVertical: normalize(13), // the culprit
             }}
           >

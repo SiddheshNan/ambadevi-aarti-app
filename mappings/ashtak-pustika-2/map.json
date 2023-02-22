@@ -1,3 +1,205 @@
 [
-  
+  {
+    "number": "1",
+    "name": "दैनिक प्रार्थना ",
+    "search_txt": [
+      "dainik prarthana",
+      "ambe ek kari udasana kari bhaktasi hati dhari"
+    ]
+  },
+  {
+    "number": "2",
+    "name": "दे मज आशिर्वाद ।",
+    "search_txt": [
+      "de maja ashirwad",
+      "ambe de maja ashirvad",
+      "chatra sivhasani amba baisali",
+      "sang kasi karu puja yevuni",
+      "lavuni aarti vaat"
+    ]
+  },
+  {
+    "number": "3",
+    "name": "तारक नाम तूझे ।",
+    "search_txt": [
+      "tarak nama tuze",
+      "bhavani tarak nav tuze",
+      "tari mala jagadamba",
+      "ambe tari mala jagadamba"
+    ]
+  },
+  {
+    "number": "4",
+    "name": "तारी मला जगदंब ।",
+    "search_txt": ["tari mala jagadamba", "ambe tari mala jagadamba"]
+  },
+  {
+    "number": "5",
+    "name": "अंबा शोभली सिंहासनी ।\\n( माय माझी कुलस्वामिनी )",
+    "search_txt": [
+      "amba shobhali sivhasani",
+      "may mazi kulaswamini",
+      "saptasagarach nyana jiche ambar he vesana",
+      "chandra surya hi bale donhi"
+    ]
+  },
+  {
+    "number": "6",
+    "name": "भुत्या\\n( आदिशक्तीचे कौतुक मोठे, भुत्या मज केले )",
+    "search_txt": [
+      "adishakti che kautuk mothe",
+      "bhutya maj kele",
+      "panchabhutacha deha pota ha triguna gune valila",
+      "chaitanyachi jyota lavuni prajvalit kela",
+      "chitta sneha pran vayune tyala sthir kele"
+    ]
+  },
+  {
+    "number": "7",
+    "name": "वरद‌कर।\\n( अहो अंबाबाई! वरद‌कर ठेवी मम शिरी )",
+    "search_txt": [
+      "namo devi ambe mama janani durge bhagavati",
+      "dayale shri bale shravan kari mazi vinanti",
+      "jaganmate shante jagat janani pavsi jari",
+      "aho ambabai varadkar thevi mama shiri",
+      "varadkar thevi mama shiri"
+    ]
+  },
+  {
+    "number": "8",
+    "name": "जय जय भवानी ।\\n( सदा राहे ध्यानी जय जय भवानी भगवती। )",
+    "search_txt": [
+      "shive chitkallole param vimle mangalmaye",
+      "mukhe varnu kaye sakala hi gunantar nilaye",
+      "dayale shri bale vidhi harihar dika japti",
+      "sada rahe dhyani jay jay bhavani bhagavati"
+    ]
+  },
+  {
+    "number": "9",
+    "name": "गया आणि काशी ।\\n( अशाला कशाला गया आणि काशी )",
+    "search_txt": [
+      "mani dhyaya jo renukechya padasi",
+      "mukhi jo gaya jo renukechya padasi",
+      "padi jaya jo renuka mandirasi",
+      "ashala kashala gaya ani kashi",
+      "gaya ani kashi"
+    ]
+  },
+  {
+    "number": "10",
+    "name": "पाव सत्वरे कुलस्वामिनी ।",
+    "search_txt": [
+      "ambike tuze nav changle",
+      "japta mani sukha jahale",
+      "vishaya vasana navado mani",
+      "pav satvare kulaswamini"
+    ]
+  },
+  {
+    "number": "11",
+    "name": "शरण तुज मी पाव अंबिके ।",
+    "search_txt": [
+      "jay paratpare purna chinmaye",
+      "bhagavati mahamangalalaye",
+      "adi ishwari vishva vyapake",
+      "sharan tuja mi pav ambike"
+    ]
+  },
+  {
+    "number": "12",
+    "name": "श्री रेणुके भगवती वरदे भवानी ।",
+    "search_txt": [
+      "ambe maha tripur sundari adimaye",
+      "daridrya dukha bhaya harini davi paye",
+      "tuza agadha mahima vadati purani",
+      "shre renuke bhagavati varde bhavani"
+    ]
+  },
+  {
+    "number": "13",
+    "name": "भगवती महात्रिपुरसुंदरी।\\nभेट द्यावया येई लवकरी।",
+    "search_txt": [
+      "bhagavati maha tripur sundari bhet dyavaya yei lavakari",
+      "bhagavati maha tripur sundari",
+      "bhet dyavaya yei lavakari",
+      "hachi ek ge dhyas lagla",
+      "bhet kedhva desi tu mala",
+      "raat divas mi talamalitase",
+      "bolati kuni lagle pise"
+    ]
+  },
+  {
+    "number": "14",
+    "name": "सुंदरे गुणमंदिरें। करुणा करे कमलो दभवे।\\nसिद्ध चारण पूजिती जन वंदिती महा वैष्णवे।",
+    "search_txt": [
+      "sundare guna mandire",
+      "karuna kare kamalodh bhave",
+      "siddha charan pujiti",
+      "jana vanditi maha vaishnave",
+      "siddha charan pujiti jana vanditi maha vaishnave"
+    ]
+  },
+  {
+    "number": "15",
+    "name": "निजतो डोल्हारा ।",
+    "search_txt": [
+      "nijato dolhara bhavani mulapeeth rahivasini",
+      "shankar dasachi swamini trailokye pavani",
+      "chari machve sonyache halki koudanyache",
+      "chari gaat he rangveet palna sajveet",
+      "chari dorya barobari halvite sundari"
+    ]
+  },
+  {
+    "number": "16",
+    "name": "बैल।\\n( शिकला बात बेत सारा। जुपला बैल संसारा। )",
+    "search_txt": [
+      "shikla baat bet sara",
+      "jupla baila sansara",
+      "shikla baat bet sara jupla baila sansara",
+      "savad gulama nase salama",
+      "sado dit ju khandi",
+      "hari bhajanachya kadhi vaatnis",
+      "ghadi na ye ekhadi"
+    ]
+  },
+  {
+    "number": "17",
+    "name": "थप्पड ।\\n( जन्मा येऊनि केलेंस काय। नाहीं धरिले देवाचे पाय। )",
+    "search_txt": [
+      "janma yeuni kelesa kay",
+      "nahi dharile devache pay",
+      "janma yeuni kelesa kay nahi dharile devache pay",
+      "tuja dagda pari vahun udari nav mahine shinali may"
+    ]
+  },
+  {
+    "number": "18",
+    "name": "चोर ।\\n( मारतील चोर आघाडी। चालला दिवस हाण गाडी। )",
+    "search_txt": [
+      "martil chor aaghadi chalala divas haan gadi",
+      "susti nako karu padel zapad ratra mothe andhari",
+      "angabhovati chamaktil tya taravarichya dhari"
+    ]
+  },
+  {
+    "number": "19",
+    "name": "खेळ तमाशा।\\n( पहा काय अजब जलशाचा। तमाशा हा बिन पैशाचा )",
+    "search_txt": [
+      "paha kay ajab jalshacha",
+      "tamasha ha bin paisacha",
+      "paha kay ajab jalshacha tamasha ha bin paisacha",
+      "laxuni brukutisthan kapare lavuni do nayananchi",
+      "saguna shobha avalokavi purna bramha sadanachi"
+    ]
+  },
+  {
+    "number": "20",
+    "name": "जयजयकार ।\\n( जगत्जननीचा एक मुखाने करूया जयजयकार  )",
+    "search_txt": [
+      "jayjay kar jayjay kar trivar jay jay kar",
+      "jagat janani cha ek mukhane karuya jay jay kar"
+    ]
+  }
 ]
