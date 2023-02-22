@@ -86,8 +86,8 @@ const BookletScreen = ({ route, navigation }) => {
           icon: "arrow-back",
           color: "#fff",
           style: {
-            marginTop: 6,
-            marginLeft: 8,
+            marginTop: normalize(6),
+            marginLeft: normalize(8),
           },
           onPress: () => navigation.goBack(),
         }}
