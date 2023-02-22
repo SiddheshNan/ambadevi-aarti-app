@@ -1,0 +1,73 @@
+[
+  {
+    "number": "1",
+    "name": "दैनिक प्रार्थना",
+    "search_txt": ["dainik prarthana", "ambe ek kari"]
+  },
+  {
+    "number": "2",
+    "name": "महादेवाची आरती ।\n(शिवशंकर गिरीजाधर व्याघ्रांबर धारी)",
+    "search_txt": [
+      "mahadevachi aarti",
+      "shivshankar girijadhar vyaghrambhar dhari",
+      "madanari sukhakari bhavabhaya sanhari",
+      "jay dev dev har har mahadeva",
+      "vishmanbhar kapileshwar paripurna seva jay deva"
+    ]
+  },
+  {
+    "number": "3",
+    "name": "जनार्दन स्वामी आरती ।\n(आरती गाऊ सुखकरची । जनार्दन स्वामी सद्गुरू ची)",
+    "search_txt": [
+      "janardan swami aarti",
+      "aarti gau sukha karachi",
+      "janardan swami sadguru chi"
+    ]
+  },
+  {
+    "number": "4",
+    "name": "श्री व्यंकटेश आरती",
+    "search_txt": ["shri vyankatesh aarti"]
+  },
+  {
+    "number": "5",
+    "name": "श्री दत्ताची आरती ",
+    "search_txt": ["shri datta aarti"]
+  },
+  {
+    "number": "6",
+    "name": "श्री गजानन महाराज आरती ",
+    "search_txt": ["shri gajanan maharaj aarti"]
+  },
+  {
+    "number": "7",
+    "name": "शंकराची आरती ।\n(जय जय त्र्यंबकराज गिरिजानाथा गंगाधरा हो)",
+    "search_txt": [
+      "shankarachi aarti",
+      "jay jay trambakraj girijanacha gangadhara ho",
+      "trishulpani shambho nilagriva shashishekhara ho",
+      "vibhutimala jata sundar gajacharma bardhara ho"
+    ]
+  },
+  {
+    "number": "8",
+    "name": "शंकराची आरती ।\n(लवथवती विक्राळा ब्रह्मांडी माळा)",
+    "search_txt": ["shankarachi aarti", "lava thavati vikrala bramhandi mala"]
+  },
+
+  {
+    "number": "9",
+    "name": "देवी आरती संग्रह पुस्तिका \n(COMBINE PDF)",
+    "search_txt": ["aarti pustika"]
+  },
+  {
+    "number": "10",
+    "name": "अष्टक पुस्तिका 1\n(COMBINE PDF)",
+    "search_txt": ["ashtak pustika 1"]
+  },
+  {
+    "number": "11",
+    "name": "अष्टक पुस्तिका 2\n(COMBINE PDF)",
+    "search_txt": ["ashtak pustika 2"]
+  }
+]

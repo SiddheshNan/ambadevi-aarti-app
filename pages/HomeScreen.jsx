@@ -1,5 +1,6 @@
 import React from "react";
 import { ScrollView, StyleSheet, Text, View, Linking } from "react-native";
+import Constants from "expo-constants";
 import { Button, Header as HeaderRNE } from "@rneui/themed";
 import { SafeAreaView } from "react-native-safe-area-context";
 import { normalize } from "../utils";
@@ -23,6 +24,19 @@ const HomeScreen = ({ navigation }) => {
       />
 
       <SafeAreaView style={{ height: "100%", flex: 1, paddingTop: -40 }}>
+        <Text
+          style={{
+            textAlignVertical: "center",
+            textAlign: "center",
+            paddingTop: normalize(20),
+            fontWeight: "bold",
+            fontSize: normalize(16),
+            color: "#EE386D"
+          }}
+        >
+          ॥ ॐ प्रणव रुपिणीम् वन्दे ॥
+        </Text>
+
         <ScrollView>
           <View style={{ flex: 1, height: "100%" }}>
             <View
@@ -32,7 +46,7 @@ const HomeScreen = ({ navigation }) => {
                 justifyContent: "center",
                 alignItems: "center",
                 width: "100%",
-                paddingTop: 30,
+                paddingTop: normalize(20),
               }}
             >
               <Button
@@ -91,6 +105,20 @@ const HomeScreen = ({ navigation }) => {
                   });
                 }}
               />
+              <Button
+                title={"इतर PDF"}
+                size="xl"
+                titleStyle={styles.btnText}
+                buttonStyle={styles.buttons}
+                containerStyle={styles.btnContainer}
+                onPress={() => {
+                  navigation.navigate("BookletScreen", {
+                    type: "OTHER_PDF",
+                    name: "इतर PDF",
+                    kind: "PDF",
+                  });
+                }}
+              />
             </View>
           </View>
         </ScrollView>
@@ -138,7 +166,7 @@ const HomeScreen = ({ navigation }) => {
                   fontSize: normalize(11),
                 }}
               >
-                build version 1.0.0
+                build version {Constants.manifest.version}
               </Text>
             </View>
           </View>
@@ -150,7 +178,7 @@ const HomeScreen = ({ navigation }) => {
 
 const styles = StyleSheet.create({
   buttons: {
-    backgroundColor: "#DE3163", //#DE3163
+    backgroundColor: "#DE3163",
     borderColor: "transparent",
     borderWidth: 0,
     borderRadius: 30,

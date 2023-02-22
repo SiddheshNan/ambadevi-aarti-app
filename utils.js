@@ -6,10 +6,13 @@ import aartiSangrahMap from "./mappings/aarti-sangrah/map.json";
 import ashtakPustika1Map from "./mappings/ashtak-pustika-1/map.json";
 import ashtakPustika2Map from "./mappings/ashtak-pustika-2/map.json";
 import kakadAartiMap from "./mappings/kakad-aarti/map.json";
+import otherPDFMap from "./mappings/other-pdf/map.json";
+
 import * as aartiSangrahFiles from "./mappings/aarti-sangrah/file-imports";
 import * as kakadAartiFiles from "./mappings/kakad-aarti/file-imports";
 import * as ashtakPustika1Files from "./mappings/ashtak-pustika-1/file-imports";
 import * as ashtakPustika2Files from "./mappings/ashtak-pustika-2/file-imports";
+import * as otherPDFFiles from "./mappings/other-pdf/file-imports";
 
 const { width: SCREEN_WIDTH, height: SCREEN_HEIGHT } = Dimensions.get("window");
 
@@ -102,6 +105,13 @@ export const fileMap = {
     SEARCH: fuzzySearch(kakadAartiMap),
     GETFILE: (num) => {
       return kakadAartiFiles[`kakadAarti${num}`];
+    },
+  },
+  OTHER_PDF: {
+    BOOKLET: otherPDFMap,
+    SEARCH: fuzzySearch(otherPDFMap),
+    GETFILE: (num) => {
+      return otherPDFFiles[`otherPDF${num}`];
     },
   },
 };

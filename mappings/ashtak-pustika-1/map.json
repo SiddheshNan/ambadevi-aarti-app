@@ -1,7 +1,44 @@
 [
   {
-    "number": "103",
-    "name": "namanpar pad",
-    "search_txt": ["namanpar pad"]
+    "number": "1",
+    "name": "नमनपर पद \\n (नमो गणराया मंगलमूर्ती ।\nसकल विबुधगण मंगल गाती )",
+    "search_txt": ["namo ganraya mangal murti", "sakal vibudhagan mangal gati"]
+  },
+  {
+    "number": "2",
+    "name": "जयजयकार \\n(नमो श्री जय मंगल मंगलेश्वरी)",
+    "search_txt": [
+      "namo shri mangal mangaleshwari",
+      "jay jay namo shri vacheswari",
+      "jay jay shri guru janani janakeshwari",
+      "bhuvaneshwari renuke"
+    ]
+  },
+  {
+    "number": "3",
+    "name": "वंदे मातरम् \\n(जय आनंदे, विजयवरदे, उदय वंदे मातरम्)",
+    "search_txt": [
+      "jaya anande vijay varde udaya vande mataram",
+      "bramhandpinda vyapini aadipranav rupini"
+    ]
+  },
+  {
+    "number": "4",
+    "name": "पद\\n(जय जय श्रीशुभ मंगळावरदे । अंबे जगदंबे)",
+    "search_txt": [
+      "jay jay shri shubh mangalvarde ambe jagadambe",
+      "jay jay shri mulpeeth nayake ambe jagadambe"
+    ]
+  },
+  {
+    "number": "5",
+    "name": "श्री रेणुकेची प्रार्थना\\n(श्रीमन्मंगलदायके । श्रीमूळपीठनायके ।।\\nमाझी विनंति आयके । माझे आई रेणुके)",
+    "search_txt": [
+      "shri mangaldayake shri mulpeethnayake",
+      "mazi vinanti aayake",
+      "make aai renuke",
+      "narayani shri shankare annapurne vishwambhare",
+      "krupa karne hechi bare"
+    ]
   }
 ]
