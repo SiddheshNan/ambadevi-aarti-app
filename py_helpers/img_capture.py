@@ -13,7 +13,7 @@ class Application():
         self.bg = "#00203F"
         self.fg = "#ADEFD1"
 
-        self.ashtak_number_count = 109
+        self.ashtak_number_count = 8
         self.img_count = 1
 
         self.main_window = self.createWindow("Image Capture")
@@ -61,14 +61,16 @@ class Application():
         return window
 
     def takeBoundedScreenShot(self, x1, y1, x2, y2):
+
+        folderPath = f'ap2/ashtak-pustika2-{self.ashtak_number_count}'
         
-        isExist = os.path.exists(f'ap1/ashtak-pustika1-{self.ashtak_number_count}')
+        isExist = os.path.exists(folderPath)
         if not isExist:
-            os.makedirs(f'ap1/ashtak-pustika1-{self.ashtak_number_count}')
+            os.makedirs(folderPath)
     
-        img_nam = f"ap1/ashtak-pustika1-{self.ashtak_number_count}/{self.img_count}"
+        img_nam = f"{folderPath}/{self.img_count}.png"
         im = pyautogui.screenshot(region=(x1, y1, x2, y2))
-        im.save(img_nam+".png")
+        im.save(img_nam)
         self.img_count+=1
         self.desc.config(text=f"Current Image: {self.img_count}")
 

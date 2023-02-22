@@ -5,7 +5,7 @@ import cv2 as cv
 def nothing(x):
     pass
 
-img = cv.imread("converted/ashtak-pustika1-4.jpg")
+img = cv.imread("ap2/ashtak-pustika2-1/1.jpg")
 img = cv.cvtColor(img, cv.COLOR_RGB2GRAY)
 cv.namedWindow('image')
 cv.namedWindow('original')

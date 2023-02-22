@@ -43,7 +43,7 @@ def process_and_save(opened_file, img_save_path):
     my_img.save(img_save_path, optimize=True, quality=95)
 
 
-root_dir = 'ap1'
+root_dir = 'ap2'
 
 for ashtak_folder in os.listdir(root_dir):
     ashtak_folder_path = os.path.join(root_dir, ashtak_folder)
