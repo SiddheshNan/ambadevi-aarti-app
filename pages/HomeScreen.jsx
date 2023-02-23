@@ -58,7 +58,6 @@ const HomeScreen = ({ navigation }) => {
                   navigation.navigate("BookletScreen", {
                     type: "AARTI_SANGRAH",
                     name: "देवी आरती संग्रह",
-                    kind: "PDF",
                     showSearch: true,
                   });
                 }}
@@ -73,7 +72,6 @@ const HomeScreen = ({ navigation }) => {
                   navigation.navigate("BookletScreen", {
                     type: "ASHTAK_PUSTIKA_1",
                     name: "अष्टक पुस्तिका 1",
-                    kind: "IMG",
                     showSearch: true,
                   });
                 }}
@@ -88,7 +86,6 @@ const HomeScreen = ({ navigation }) => {
                   navigation.navigate("BookletScreen", {
                     type: "ASHTAK_PUSTIKA_2",
                     name: "अष्टक पुस्तिका 2",
-                    kind: "IMG",
                     showSearch: true,
                   });
                 }}
@@ -103,7 +100,6 @@ const HomeScreen = ({ navigation }) => {
                   navigation.navigate("BookletScreen", {
                     type: "KAKAD_AARTI",
                     name: "काकड आरती",
-                    kind: "PDF",
                     showSearch: false,
                   });
                 }}
@@ -118,7 +114,6 @@ const HomeScreen = ({ navigation }) => {
                   navigation.navigate("BookletScreen", {
                     type: "OTHER_PDF",
                     name: "इतर PDF",
-                    kind: "PDF",
                     showSearch: true,
                   });
                 }}

@@ -55,33 +55,6 @@ export const openPDF = async (file) => {
   }
 };
 
-export const openImage = async (file) => {
-  try {
-    const localFile = await file.downloadAsync();
-    const cUri = await FileSystem.getContentUriAsync(localFile.localUri);
-
-   
-    await IntentLauncher.startActivityAsync(
-      "android.intent.action.VIEW",
-      {
-        data: cUri,
-        flags: 2,
-        // type: "application/pdf",
-      }
-    );
-
-
-  } catch (error) {
-    console.log(error);
-    Alert.alert("Error1", `${error.name}: ${error.message}`, [
-      {
-        text: "Okay",
-        onPress: () => {},
-      },
-    ]);
-  }
-};
-
 export const fuzzySearch = (list) => {
   const options = {
     // isCaseSensitive: false,

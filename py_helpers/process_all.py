@@ -32,7 +32,7 @@ def preprocess(pil_image):
 
     adjusted = cv2.convertScaleAbs(img, alpha=1.0, beta=8)
 
-    adaptive_rgb = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
+    adaptive_rgb = cv2.cvtColor(adjusted, cv2.COLOR_BGR2RGB)
     img_pil = Image.fromarray(adaptive_rgb)
     
     return img_pil
