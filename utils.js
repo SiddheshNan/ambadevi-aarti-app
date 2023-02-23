@@ -1,7 +1,6 @@
 import { Dimensions, Platform, PixelRatio, Alert } from "react-native";
 import * as FileSystem from "expo-file-system";
 import * as IntentLauncher from "expo-intent-launcher";
-import * as Linking from "expo-linking";
 import Fuse from "fuse.js";
 import aartiSangrahMap from "./mappings/aarti-sangrah/map.json";
 import ashtakPustika1Map from "./mappings/ashtak-pustika-1/map.json";
@@ -28,7 +27,7 @@ export const normalize = (size) => {
   }
 };
 
-export const openFile = async (file) => {
+export const openPDF = async (file) => {
   try {
     const localFile = await file.downloadAsync();
     const cUri = await FileSystem.getContentUriAsync(localFile.localUri);
@@ -66,7 +65,7 @@ export const openImage = async (file) => {
       "android.intent.action.VIEW",
       {
         data: cUri,
-        flags: 1,
+        flags: 2,
         // type: "application/pdf",
       }
     );
