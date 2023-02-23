@@ -1,36 +1,55 @@
 import React from "react";
-import { SafeAreaView, StyleSheet, View, Image } from "react-native";
+import { SafeAreaView, StyleSheet, View, Image, Text } from "react-native";
 import { WebView } from "react-native-webview";
+import { StatusBar } from "expo-status-bar";
+import { normalize } from "../utils";
+import { Asset } from "expo-asset";
+import * as FileSystem from "expo-file-system";
+const bgColor = "#ECF0F1";
 
 const ImageScreen = ({ route, navigation }) => {
-  const images = Image.resolveAssetSource(route.params.imgFile).uri;
-
+  console.log(route.params.localUri);
   return (
-    <SafeAreaView style={{ flex: 1 }}>
+    <View style={{ flex: 1 }}>
+      <StatusBar backgroundColor={"transparent"} translucent hidden />
       <View style={styles.container}>
         <WebView
+          allowFileAccess={true}
+          allowingReadAccessToURL={true}
+          allowUniversalAccessFromFileURLs={true}
+          allowFileAccessFromFileURLs={true}
+          mixedContentMode={"always"}
+          cacheEnabled={true}
+          setSupportMultipleWindows={true}
+          setJavaScriptCanOpenWindowsAutomatically={true}
+          javaScriptCanOpenWindowsAutomatically={true}
+          scalesPageToFit={true}
+          javaScriptEnabled={true}
+          domStorageEnabled={true}
+          onError={console.error.bind(console, "error")}
+          originWhitelist={["*"]}
+          style={styles.image}
           source={{
             html: `<html>
-                      <body>
-                          <br/>
-                          <img src="${images}" width="100%" />
-                        </div> 
+                      <body style="background-color:${bgColor};">
+                        <img style="display:block; padding-top:${normalize(
+                          7
+                        )}px;"
+                              src="${route.params.localUri}" width="100%"
+                        />
                       </body>
                     </html>`,
           }}
-          originWhitelist={["*"]}
-          style={styles.image}
         />
       </View>
-    </SafeAreaView>
+    </View>
   );
 };
 
 const styles = StyleSheet.create({
   container: {
-    backgroundColor: "#F5FCFF",
+    backgroundColor: bgColor,
     flex: 1,
-    marginTop: 25,
   },
 });
 

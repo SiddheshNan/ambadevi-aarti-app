@@ -3,7 +3,8 @@ import { Text, View, FlatList, KeyboardAvoidingView } from "react-native";
 import { Button, Header as HeaderRNE, SearchBar } from "@rneui/themed";
 import { SafeAreaView } from "react-native-safe-area-context";
 import { normalize, fileMap, hasNumber, openPDF } from "../utils";
-
+import { Asset } from "expo-asset";
+import * as FileSystem from "expo-file-system";
 const BookletScreen = ({ route, navigation }) => {
   const { BOOKLET, SEARCH, GETFILE } = fileMap[route.params.type];
 
@@ -57,15 +58,23 @@ const BookletScreen = ({ route, navigation }) => {
         marginVertical: 7.5,
         borderRadius: 7.5,
       }}
-      onPress={() => {
+      onPress={async () => {
         if (route.params.kind == "PDF") {
           openPDF(GETFILE(item.number));
         } else if (route.params.kind == "IMG") {
           const imgFile = GETFILE(item.number);
 
-          navigation.navigate("ImageScreen", {
-            imgFile: imgFile,
-          });
+          try {
+            const file = Asset.fromModule(imgFile);
+            const localFile = await file.downloadAsync();
+
+            navigation.navigate("ImageScreen", {
+              localUri: localFile.localUri,
+            });
+
+          } catch (error) {
+            console.log(error);
+          }
         }
       }}
     />
