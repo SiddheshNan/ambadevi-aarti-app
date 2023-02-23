@@ -1,7 +1,7 @@
 [
   {
     "number": "1",
-    "name": "दैनिक प्रार्थना ",
+    "name": "दैनिक प्रार्थना ।",
     "search_txt": [
       "dainik prarthana",
       "ambe ek kari udasana kari bhaktasi hati dhari"
@@ -35,7 +35,7 @@
   },
   {
     "number": "5",
-    "name": "अंबा शोभली सिंहासनी ।\\n( माय माझी कुलस्वामिनी )",
+    "name": "अंबा शोभली सिंहासनी ।\\n( माय माझी कुलस्वामिनी । )",
     "search_txt": [
       "amba shobhali sivhasani",
       "may mazi kulaswamini",
@@ -45,7 +45,7 @@
   },
   {
     "number": "6",
-    "name": "भुत्या\\n( आदिशक्तीचे कौतुक मोठे, भुत्या मज केले )",
+    "name": "भुत्या ।\\n( आदिशक्तीचे कौतुक मोठे, भुत्या मज केले । )",
     "search_txt": [
       "adishakti che kautuk mothe",
       "bhutya maj kele",
@@ -56,7 +56,7 @@
   },
   {
     "number": "7",
-    "name": "वरद‌कर।\\n( अहो अंबाबाई! वरद‌कर ठेवी मम शिरी )",
+    "name": "वरद‌कर ।\\n( अहो अंबाबाई! वरद‌कर ठेवी मम शिरी । )",
     "search_txt": [
       "namo devi ambe mama janani durge bhagavati",
       "dayale shri bale shravan kari mazi vinanti",
@@ -67,7 +67,7 @@
   },
   {
     "number": "8",
-    "name": "जय जय भवानी ।\\n( सदा राहे ध्यानी जय जय भवानी भगवती। )",
+    "name": "जय जय भवानी ।\\n( सदा राहे ध्यानी जय जय भवानी भगवती । )",
     "search_txt": [
       "shive chitkallole param vimle mangalmaye",
       "mukhe varnu kaye sakala hi gunantar nilaye",
@@ -77,7 +77,7 @@
   },
   {
     "number": "9",
-    "name": "गया आणि काशी ।\\n( अशाला कशाला गया आणि काशी )",
+    "name": "गया आणि काशी ।\\n( अशाला कशाला गया आणि काशी । )",
     "search_txt": [
       "mani dhyaya jo renukechya padasi",
       "mukhi jo gaya jo renukechya padasi",
@@ -118,7 +118,7 @@
   },
   {
     "number": "13",
-    "name": "भगवती महात्रिपुरसुंदरी।\\nभेट द्यावया येई लवकरी।",
+    "name": "भगवती महात्रिपुरसुंदरी ।\\nभेट द्यावया येई लवकरी ।",
     "search_txt": [
       "bhagavati maha tripur sundari bhet dyavaya yei lavakari",
       "bhagavati maha tripur sundari",
@@ -131,7 +131,7 @@
   },
   {
     "number": "14",
-    "name": "सुंदरे गुणमंदिरें। करुणा करे कमलो दभवे।\\nसिद्ध चारण पूजिती जन वंदिती महा वैष्णवे।",
+    "name": "सुंदरे गुणमंदिरें । करुणा करे कमलो दभवे ।\\nसिद्ध चारण पूजिती जन वंदिती महा वैष्णवे ।",
     "search_txt": [
       "sundare guna mandire",
       "karuna kare kamalodh bhave",
@@ -153,7 +153,7 @@
   },
   {
     "number": "16",
-    "name": "बैल।\\n( शिकला बात बेत सारा। जुपला बैल संसारा। )",
+    "name": "बैल ।\\n( शिकला बात बेत सारा । जुपला बैल संसारा । )",
     "search_txt": [
       "shikla baat bet sara",
       "jupla baila sansara",
@@ -176,7 +176,7 @@
   },
   {
     "number": "18",
-    "name": "चोर ।\\n( मारतील चोर आघाडी। चालला दिवस हाण गाडी। )",
+    "name": "चोर ।\\n( मारतील चोर आघाडी ।\\nचालला दिवस हाण गाडी । )",
     "search_txt": [
       "martil chor aaghadi chalala divas haan gadi",
       "susti nako karu padel zapad ratra mothe andhari",
@@ -185,7 +185,7 @@
   },
   {
     "number": "19",
-    "name": "खेळ तमाशा।\\n( पहा काय अजब जलशाचा। तमाशा हा बिन पैशाचा )",
+    "name": "खेळ तमाशा ।\\n( पहा काय अजब जलशाचा ।\\nतमाशा हा बिन पैशाचा । )",
     "search_txt": [
       "paha kay ajab jalshacha",
       "tamasha ha bin paisacha",
@@ -196,10 +196,224 @@
   },
   {
     "number": "20",
-    "name": "जयजयकार ।\\n( जगत्जननीचा एक मुखाने करूया जयजयकार  )",
+    "name": "जयजयकार ।\\n( जगत्जननीचा एक मुखाने करूया जयजयकार ।  )",
     "search_txt": [
-      "jayjay kar jayjay kar trivar jay jay kar",
+      "jay jay kar jay jay kar trivar jay jay kar",
       "jagat janani cha ek mukhane karuya jay jay kar"
+    ]
+  },
+  {
+    "number": "21",
+    "name": "आर्त हांके लावितें मी घेई माझ्या वंदना ।\\nसदय माते अंबिके गे! ऐक माझी प्रार्थना ।",
+    "search_txt": [
+      "aarta hanke lavite mi ghei mazya vandana",
+      "saday mate ambike ge aaik mazi prarthana",
+      "ya vrutha sansar jali jeev ha jo guntla",
+      "lobhalela jeev ha mama purnatene tapla"
+    ]
+  },
+  {
+    "number": "22",
+    "name": "रा.सं. तुकडोजी महाराज\\nकृत तुळजा भवानीची प्रार्थना ।",
+    "search_txt": [
+      "bhakta vatsale may bhavani tulajapur swamini",
+      "ambike prasanna ho manmani",
+      "bahu divsanchi darshan karnya iccha hoti zhani",
+      "pavlish aaj manapasuni"
+    ]
+  },
+  {
+    "number": "23",
+    "name": "रक्ष रक्ष ईश्वरा ।",
+    "search_txt": [
+      "raksha raksha ishwara bharta prachina janapada",
+      "bhogayali bahu jaye ekda vaibhav sukh sampada",
+      "raksha raksha ishvara"
+    ]
+  },
+  {
+    "number": "24",
+    "name": "अंबा बोल मिठे ।",
+    "search_txt": [
+      "amba bol methe",
+      "amba bol mithe bol methe",
+      "naina zharoke baithe"
+    ]
+  },
+  {
+    "number": "25",
+    "name": "ध्यान ।\\n ( मेरी अरज सुनो, महारानि अंबिका माई । )",
+    "search_txt": [
+      "meri araj suno maharani ambika mai",
+      "chamunda mari kalika mai",
+      "mai hridaya ji me nisadin dharta dhyan charanchit lai",
+      "dhyan"
+    ]
+  },
+  {
+    "number": "26",
+    "name": "भगवती पुष्पांजली । ( अयि गिरिनन्दिनि )",
+    "search_txt": [
+      "bhagavati pushpanjali",
+      "aayi girinandini nandita medini vishwavinodini nandanute",
+      "girivar vindhya sheridhini vasini vishnu vilasini jishnu nute",
+      "bhagavati he kshiti kantha kutumbini bharikutubini burikrute",
+      "jay jay mahishasur mardini ramya kapardini shailasute"
+    ]
+  },
+  {
+    "number": "27",
+    "name": "महालक्ष्म्यष्टकम् ।",
+    "search_txt": [
+      "mahalaxmi ashtakam",
+      "mahalaxamyashtakam",
+      "mahalaxmi namostute"
+    ]
+  },
+  {
+    "number": "28",
+    "name": "देव्यपराधक्षमापन स्तोत्रम् ।",
+    "search_txt": [
+      "devyaparadha kshamapan stotram",
+      "na manta na yanta tadapi cha na jane stutimaho",
+      "na chavhana dhyana tadapi cha na jane stutikatha",
+      "na jane mudraste tadapi cha na jane vilapana",
+      "param jane matastavdanu sarana klesh haranam"
+    ]
+  },
+  {
+    "number": "29",
+    "name": "भवान्यष्टकम ।",
+    "search_txt": [
+      "bhavanyashtakam",
+      "na tato na mata na bandhurna data",
+      "na putro na putri brutye na bharta",
+      "na jaya na vidya na vrutirma maiva",
+      "gatistam gatistam tvameka bhavani"
+    ]
+  },
+  {
+    "number": "30",
+    "name": "अन्नपूर्णा स्तोत्रम् ।",
+    "search_txt": [
+      "annapurna stotram",
+      "nityanand kari varabhaya kari soundarya ratnakari",
+      "nirdhuta khilghor pavankari pratyaksha maheshwari",
+      "praleyachla vansha pavankari kashipuradhishwari",
+      "bhiksha dehi krupa valamba kari matanna purneshwari"
+    ]
+  },
+  {
+    "number": "31",
+    "name": "त्रिपुरसुंदरी स्तोत्र ।",
+    "search_txt": [
+      "tripursundari stotram",
+      "kandabavan charini munikadamba kadambinima",
+      "nitamba jichabhudhara sura nitambini sevitam",
+      "nava buruha lochanam bhinava budashyamala",
+      "trilochan kutumbinim tripur sundari mashraye"
+    ]
+  },
+  {
+    "number": "32",
+    "name": "लक्ष्मी वंदना ।",
+    "search_txt": [
+      "lakshmi vandana",
+      "laxmi vandana",
+      "suman suvvandita sundari madhavi chandra sahodari namanye",
+      "maniguna mandit moksha pradayini manjul bhashini vedanute",
+      "pankajvasini devasupujit sadguna varshini shantimaye",
+      "jay jay he madhu sudan kamini aadi laxmi tva palat mam",
+      "jay jay he madhu sudan kamini danya lakshmi twa palat mam"
+    ]
+  },
+  {
+    "number": "33",
+    "name": "श्री दत्ताची पदे - ध्यान दर्शन ।\\n( जय जय दत्तराज योगी । जय जय महाराज योगी । )",
+    "search_txt": [
+      "dattachi pade",
+      "dhyan darshan",
+      "jay jay datta raj yogi jay jay maharaj yogi"
+    ]
+  },
+  {
+    "number": "34",
+    "name": "वरप्रसाद ।\\n( दत्ता मजला प्रसन्न होसी । जरी तू वर देसी । )",
+    "search_txt": [
+      "varprasad",
+      "datta majala prasanna hosi jari tu var desi",
+      "tari mi aana na mage tujasi nirdharuna manasi"
+    ]
+  },
+  {
+    "number": "35",
+    "name": "माझ्या दत्ता अवधूता ब्रह्मचारी ।\\nराहे साहे माहुर गडा वरी ।",
+    "search_txt": [
+      "mazya datta avadhuta bramhachari",
+      "rahe sahe mahur gadavari"
+    ]
+  },
+  {
+    "number": "36",
+    "name": "श्री विधिहरिहर मूर्ति सावळी, कृष्णा तिरी राहे ।\\nदत्त दिगंबर म्हणती तयाला औदुंबर छाये ।",
+    "search_txt": [
+      "shri vidhi harihar murti savli krishna tiri rahe",
+      "datta digambar mhanati tayala audumbar chaye"
+    ]
+  },
+  {
+    "number": "37",
+    "name": "जय नमोस्तुते श्री दिगंबरा ।\\n( करू विनंति दत्तात्रया किती । )",
+    "search_txt": [
+      "jay namostute shri digambara",
+      "sadguru nirupadhi tu bara",
+      "uruna desi daivachi bakiti",
+      "karu vinanti dattatraya kiti"
+    ]
+  },
+  {
+    "number": "38",
+    "name": "श्री दत्त दत्त जय श्री गुरुदेव दत्त ।",
+    "search_txt": [
+      "shri vakratunda chaturanan balika hi",
+      "shri laxmi bhagavati mahakali hi",
+      "gati vasanta tilakamrut tulya vrutta",
+      "shri datta datta jay shri gurudeva datta"
+    ]
+  },
+  {
+    "number": "39",
+    "name": "तो अनाथ नाथ दत्त माहूरांत पाहीला ।",
+    "search_txt": [
+      "yaminisa shobhavita chandra jo prajapati",
+      "duvasi avatar tochi shri uma pati",
+      "shri ramapaticha atri ashramat rahila",
+      "to anath nath datta mahurat pahila"
+    ]
+  },
+  {
+    "number": "40",
+    "name": "श्री दत्तात्रेय स्तोत्र ।\\n( दत्तात्रेय नमोऽस्तुते )",
+    "search_txt": [
+      "shri dattatray stotram",
+      "jaradhran panduranga shulahasta krupanidhim",
+      "sarvaroga haran deva dattatray maham bhaje",
+      "om asya shri dattatrya stotra mantrasya bhagavn narad maharshi",
+      "anushtupa chanda shri datta parmatma devata",
+      "shri datta prityarthe jape viniyoga",
+      "jagadupatti karte cha sthiti sanhara hetave",
+      "bhavpash vimuktaya",
+      "dattatray namostute"
+    ]
+  },
+  {
+    "number": "41",
+    "name": "श्रीगुरुस्तोत्रम् ।\\n( श्री गुरुवे नमः )",
+    "search_txt": [
+      "shri guru stotram",
+      "akhand mandalakaram vyaptam yena characharam",
+      "tatpadam darshita yena tasme shri guruve namah",
+      "tasme shri guruve namah"
     ]
   }
 ]
