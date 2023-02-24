@@ -4,24 +4,23 @@
     "name": "दैनिक प्रार्थना",
     "search_txt": ["dainik prarthana", "ambe ek kari"]
   },
+
   {
     "number": "2",
-    "name": "श्री महादेवाची आरती ।\n( शिवशंकर गिरीजाधर व्याघ्रांबर धारी )",
-    "search_txt": [
-      "mahadevachi aarti",
-      "shivshankar girijadhar vyaghrambhar dhari",
-      "madanari sukhakari bhavabhaya sanhari",
-      "jay dev dev har har mahadeva",
-      "vishmanbhar kapileshwar paripurna seva jay deva"
-    ]
-  },
-  {
-    "number": "3",
-    "name": "श्री जनार्दन स्वामी आरती ।\n( आरती गाऊ सुखकरची।\nजनार्दन स्वामी सद्गुरू ची। )",
+    "name": "श्री जनार्दन स्वामी आरती ।\n( आरती गाऊ सुखकरची। जनार्दन स्वामी सद्गुरू ची। )",
     "search_txt": [
       "janardan swami aarti",
       "aarti gau sukha karachi",
       "janardan swami sadguru chi"
+    ]
+  },
+  {
+    "number": "3",
+    "name": "श्री जनार्दन स्वामी आरती ।\n( जय जनार्दन स्वामी । जय अंबनिष्ठा । )",
+    "search_txt": [
+      "janardan swami aarti",
+      "jay janardan swami jay amba nishtha",
+      "desi amba prema harasi tu kashta"
     ]
   },
   {
@@ -49,6 +48,22 @@
   },
   {
     "number": "7",
+    "name": "श्री शंकराची आरती ।\n( शिवशंकर गिरीजाधर व्याघ्रांबर धारी )",
+    "search_txt": [
+      "mahadevachi aarti",
+      "shivshankar girijadhar vyaghrambhar dhari",
+      "madanari sukhakari bhavabhaya sanhari",
+      "jay dev dev har har mahadeva",
+      "vishmanbhar kapileshwar paripurna seva jay deva"
+    ]
+  },
+  {
+    "number": "8",
+    "name": "श्री शंकराची आरती ।\n( लवथवती विक्राळा ब्रह्मांडी माळा )",
+    "search_txt": ["shankarachi aarti", "lava thavati vikrala bramhandi mala"]
+  },
+  {
+    "number": "9",
     "name": "श्री शंकराची आरती ।\n( जय जय त्र्यंबकराज गिरिजानाथा गंगाधरा हो )",
     "search_txt": [
       "shankarachi aarti",
@@ -58,23 +73,17 @@
     ]
   },
   {
-    "number": "8",
-    "name": "श्री शंकराची आरती ।\n( लवथवती विक्राळा ब्रह्मांडी माळा )",
-    "search_txt": ["shankarachi aarti", "lava thavati vikrala bramhandi mala"]
-  },
-
-  {
-    "number": "9",
+    "number": "10",
     "name": "देवी आरती संग्रह पुस्तिका \n(COMBINE PDF)",
     "search_txt": ["aarti pustika", "devi aarti sangrah pustika"]
   },
   {
-    "number": "10",
+    "number": "11",
     "name": "अष्टक पुस्तिका 1\n(COMBINE PDF)",
     "search_txt": ["ashtak pustika 1"]
   },
   {
-    "number": "11",
+    "number": "12",
     "name": "अष्टक पुस्तिका 2\n(COMBINE PDF)",
     "search_txt": ["ashtak pustika 2"]
   }
