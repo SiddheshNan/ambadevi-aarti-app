@@ -38,7 +38,7 @@ const BookletScreen = ({ route, navigation }) => {
 
   const renderItem = ({ item }) => (
     <Button
-      title={`${item.number}. ${item.name.replace(/\\n/g, "\n")}`}
+      title={`${item.number != 0 ?  item.number + '.' : ''} ${item.name.replace(/\\n/g, "\n")}`}
       buttonStyle={{
         borderColor: "#D5D8DC",
         backgroundColor: "#fff",
@@ -135,7 +135,7 @@ const BookletScreen = ({ route, navigation }) => {
                 renderItem={renderItem}
                 keyExtractor={(item) => item.number}
                 contentContainerStyle={{
-                  flexGrow: 1,
+                  flexGrow: 1,paddingBottom: 20
                 }}
                 style={{
                   marginBottom: 75,
@@ -153,6 +153,7 @@ const BookletScreen = ({ route, navigation }) => {
                 Not Found!
               </Text>
             )}
+         
           </View>
         </KeyboardAvoidingView>
       </SafeAreaView>

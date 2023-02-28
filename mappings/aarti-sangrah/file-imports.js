@@ -1,4 +1,5 @@
 import { Asset } from 'expo-asset';
+export const aartiSangrah0 = Asset.fromModule(require("../../docs/aarti-sangrah/aarti-sangrah-0.pdf"));
 export const aartiSangrah1 = Asset.fromModule(require("../../docs/aarti-sangrah/aarti-sangrah-1.pdf"));
 export const aartiSangrah2 = Asset.fromModule(require("../../docs/aarti-sangrah/aarti-sangrah-2.pdf"));
 export const aartiSangrah3 = Asset.fromModule(require("../../docs/aarti-sangrah/aarti-sangrah-3.pdf"));

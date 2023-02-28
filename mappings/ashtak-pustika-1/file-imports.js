@@ -1,4 +1,5 @@
 import { Asset } from 'expo-asset';
+export const ashtakPustika1_0 = Asset.fromModule(require("../../docs/ashtak-pustika-1/ashtak-pustika1-0.pdf"));
 export const ashtakPustika1_1 = Asset.fromModule(require("../../docs/ashtak-pustika-1/ashtak-pustika1-1.pdf"));
 export const ashtakPustika1_2 = Asset.fromModule(require("../../docs/ashtak-pustika-1/ashtak-pustika1-2.pdf"));
 export const ashtakPustika1_3 = Asset.fromModule(require("../../docs/ashtak-pustika-1/ashtak-pustika1-3.pdf"));

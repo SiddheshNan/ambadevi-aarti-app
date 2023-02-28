@@ -29,7 +29,7 @@ const HomeScreen = ({ navigation }) => {
             style={{
               textAlignVertical: "center",
               textAlign: "center",
-              paddingTop: normalize(20),
+              paddingTop: normalize(21),
               fontWeight: "bold",
               fontSize: normalize(16),
               color: "#EE386D",
@@ -105,7 +105,7 @@ const HomeScreen = ({ navigation }) => {
                 }}
               />
               <Button
-                title={"इतर PDF"}
+                title={"इतर आरत्या"}
                 size="xl"
                 titleStyle={styles.btnText}
                 buttonStyle={styles.buttons}
@@ -113,63 +113,56 @@ const HomeScreen = ({ navigation }) => {
                 onPress={() => {
                   navigation.navigate("BookletScreen", {
                     type: "OTHER_PDF",
-                    name: "इतर PDF",
+                    name: "इतर आरत्या",
                     showSearch: true,
                   });
                 }}
               />
             </View>
           </View>
-        </ScrollView>
 
-        <View style={{ height: 30 }}>
           <View
             style={{
               flex: 1,
-              flexDirection: "row", // inner items will be added vertically
-              flexGrow: 1, // all the available vertical space will be occupied by it
-              // justifyContent: "space-between",
-              justifyContent: "center", //Centered horizontally
+              justifyContent: "center",
               alignItems: "center",
-              backgroundColor: "#FFAF00",
-
-              paddingHorizontal: normalize(16),
-              // paddingVertical: normalize(13), // the culprit
+              marginTop: normalize(45),
+              paddingBottom: 20
             }}
           >
-            <View style={{ flex: 1 }}>
+            <Text
+              style={{
+                color: "#EE386D",
+                fontSize: normalize(16),
+                fontWeight: "bold",
+                textAlignVertical: "center",
+                textAlign: "center",
+              }}
+            >
+              App by{" "}
               <Text
-                style={{
-                  color: "#FDFEFE",
-                  fontSize: normalize(13),
-                  fontWeight: "bold",
-                }}
+                onPress={() =>
+                  Linking.openURL("https://siddhesh.me").catch(console.log)
+                }
+                style={{ textDecorationLine: "underline" }}
               >
-                App by{" "}
-                <Text
-                  onPress={() =>
-                    Linking.openURL("https://siddhesh.me").catch(console.log)
-                  }
-                  style={{ textDecorationLine: "underline" }}
-                >
-                  Siddhesh Nandurkar
-                </Text>
+                Siddhesh Nandurkar
               </Text>
-            </View>
-            <View style={{ flex: 1 }}>
-              <Text
-                style={{
-                  color: "#F7F9F9",
-                  textAlign: "right",
-                  fontWeight: "normal",
-                  fontSize: normalize(11),
-                }}
-              >
-                build version {Constants.manifest.version}
-              </Text>
-            </View>
+            </Text>
+
+            <Text
+              style={{
+                color: "#EE386D",
+                textAlign: "right",
+                fontWeight: "normal",
+                fontSize: normalize(12),
+                marginTop: 5,
+              }}
+            >
+              app version: {Constants.manifest.version}
+            </Text>
           </View>
-        </View>
+        </ScrollView>
       </SafeAreaView>
     </View>
   );
@@ -183,7 +176,7 @@ const styles = StyleSheet.create({
     borderRadius: 30,
   },
   btnContainer: {
-    width: "72%",
+    width: "75%",
     marginTop: 23,
   },
   btnText: {

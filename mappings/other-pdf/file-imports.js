@@ -27,12 +27,3 @@ export const otherPDF8 = Asset.fromModule(
 export const otherPDF9 = Asset.fromModule(
   require("../../docs/other-pdf/shankarachi_aarti_jay_jay_tryambakraj.pdf")
 );
-export const otherPDF10 = Asset.fromModule(
-  require("../../docs/other-pdf/aarti_sangrah.pdf")
-);
-export const otherPDF11 = Asset.fromModule(
-  require("../../docs/other-pdf/ashtak_pustika_1.pdf")
-);
-export const otherPDF12 = Asset.fromModule(
-  require("../../docs/other-pdf/ashtak_pustika_2.pdf")
-);

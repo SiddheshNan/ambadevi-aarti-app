@@ -1,7 +1,12 @@
 [
   {
+    "number": "0",
+    "name": "देवी आरती संग्रह पुस्तिका \n(COMBINE)",
+    "search_txt": ["aarti pustika combine", "devi aarti sangrah pustika"]
+  },
+  {
     "number": "1",
-    "name": "अंबुजदल लोचनी",
+    "name": "अंबुजदल लोचनी ।",
     "search_txt": [
       "ambujadal lochani",
       "adi shakti narayani ho",
@@ -30,7 +35,7 @@
   },
   {
     "number": "3",
-    "name": "आरती त्रिपुर सुंदरीची",
+    "name": "आरती त्रिपुर सुंदरीची ।",
     "search_txt": [
       "aarti tripur sundarichi",
       "amba bai renukechi",
@@ -48,7 +53,7 @@
   },
   {
     "number": "4",
-    "name": "लव मज लागला",
+    "name": "लव मज लागला ।",
     "search_txt": [
       "lava maja lagala",
       "bheda behd kaicha",
@@ -58,7 +63,7 @@
   },
   {
     "number": "5",
-    "name": "जय जय हो नवचंडे",
+    "name": "जय जय हो नवचंडे ।",
     "search_txt": [
       "jay jay ho navachande",
       "tripure chandamunda bal dandhe ho",
@@ -155,7 +160,7 @@
   },
   {
     "number": "15",
-    "name": "काशी आमुची",
+    "name": "काशी आमुची ।",
     "sub": "मंगळवारची आरती १ ली ",
     "search_txt": [
       "kashi amuchi renuka mulapitha naika",
@@ -494,7 +499,8 @@
     "name": "जय जय रेणुके। आई जगदंबे।\\nओवाळू आरती मंगळारंभे।",
     "search_txt": [
       "jay jay renuke aai jagadambe ovalu aarati mangalarambhe",
-      "ovalu aarti mangala rambhe"
+      "ovalu aarti mangala rambhe",
+      "ovalu aarti mangalarambhe"
     ]
   },
   {
@@ -678,7 +684,7 @@
   },
   {
     "number": "60",
-    "name": "प्रथमा मुळरंभा (जुनी) ।",
+    "name": "प्रथमा मुळरंभा (जुनी) । (1)",
     "search_txt": [
       "pratham mularambha ghatshobha toran makhar stambha",
       "aarti jagadambe tuja ambe tarak vishwa kutumbe",
@@ -688,7 +694,7 @@
   },
   {
     "number": "61",
-    "name": "प्रथमा मुळरंभा (नवी) ।",
+    "name": "प्रथमा मुळरंभा (नवी) । (2)",
     "search_txt": [
       "pratham mularambha ghatshobha toran makhar stambha",
       "aarti jagadambe tuja ambe tarak vishwa kutumbe",
@@ -932,7 +938,7 @@
   },
   {
     "number": "81",
-    "name": "सुंदर गिरी परवती ।\n( आरती ओवाळु मस्तक । ठेवुनी तव चरणी । )",
+    "name": "सुंदर गिरी परवती ।\\n( आरती ओवाळु मस्तक । ठेवुनी तव चरणी । )",
     "search_txt": [
       "sundargiri parvati tuza rahivas",
       "nitye darshan gheta bhakta sukhvas",

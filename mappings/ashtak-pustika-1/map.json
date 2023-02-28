@@ -1,12 +1,17 @@
 [
   {
+    "number": "0",
+    "name": "अष्टक पुस्तिका 1 (COMBINE)",
+    "search_txt": ["ashtak pustika 1 combine"]
+  },
+  {
     "number": "1",
-    "name": "नमनपर पद \\n (नमो गणराया मंगलमूर्ती ।\nसकल विबुधगण मंगल गाती )",
+    "name": "नमनपर पद - नमो गणराया मंगलमूर्ती ।\\nसकल विबुधगण मंगल गाती ",
     "search_txt": ["namo ganraya mangal murti", "sakal vibudhagan mangal gati"]
   },
   {
     "number": "2",
-    "name": "जयजयकार \\n(नमो श्री जय मंगल मंगलेश्वरी)",
+    "name": "जयजयकार -\\nनमो श्री जय मंगल मंगलेश्वरी",
     "search_txt": [
       "namo shri mangal mangaleshwari",
       "jay jay namo shri vacheswari",
@@ -16,15 +21,17 @@
   },
   {
     "number": "3",
-    "name": "वंदे मातरम् \\n(जय आनंदे, विजयवरदे, उदय वंदे मातरम्)",
+    "name": "वंदे मातरम् -\\nजय आनंदे, विजयवरदे, उदय वंदे मातरम्",
     "search_txt": [
-      "jaya anande vijay varde udaya vande mataram",
-      "bramhandpinda vyapini aadipranav rupini"
+      "jay anande vijay varde",
+      "udaya vande mataram",
+      "bramhandpinda vyapini aadipranav rupini",
+      "tu achitya nitya aadimadhya anta savistram"
     ]
   },
   {
     "number": "4",
-    "name": "पद\\n(जय जय श्रीशुभ मंगळावरदे । अंबे जगदंबे)",
+    "name": "पद -\\nजय जय श्रीशुभ मंगळावरदे । अंबे जगदंबे",
     "search_txt": [
       "jay jay shri shubh mangalvarde ambe jagadambe",
       "jay jay shri mulpeeth nayake ambe jagadambe"
@@ -32,9 +39,9 @@
   },
   {
     "number": "5",
-    "name": "श्री रेणुकेची प्रार्थना\\n(श्रीमन्मंगलदायके । श्रीमूळपीठनायके ।।\\nमाझी विनंति आयके । माझे आई रेणुके)",
+    "name": "श्री रेणुकेची प्रार्थना\\n श्रीमन्मंगलदायके । श्रीमूळपीठनायके ।।\\nमाझी विनंति आयके । माझे आई रेणुके",
     "search_txt": [
-      "shri mangaldayake shri mulpeethnayake",
+      "shri mangaldayake shri mulpeeth nayake",
       "mazi vinanti aayake",
       "make aai renuke",
       "narayani shri shankare annapurne vishwambhare",
@@ -42,14 +49,1170 @@
     ]
   },
   {
-    "number": "113",
-    "name": "श्री)",
+    "number": "6",
+    "name": "भूपाळी -\\nसत्वर जागृत व्हावें, उठावें, पहा पहांट झाली । ",
     "search_txt": [
-      "shri mangaldayake shri mulpeethnayake",
+      "satvar jagrut vhave uthave paha pahat zali",
+      "paha pahat zali",
+      "kashi jagadambe ambe renuke tula zop aali",
+      "kimipahe ratra nahi urli"
+    ]
+  },
+  {
+    "number": "7",
+    "name": "भूपाळी \\nउठ जगदंबे ! आई लवलाही । ",
+    "search_txt": [
+      "utha jagadambe aai lavalahi",
+      "kashi nijalisa ekati ya ghatki",
+      "devuni zhatki mulahi",
+      "nirvan pahnyachi lapanyachi nutab",
+      "lagli savay tulahi"
+    ]
+  },
+  {
+    "number": "8",
+    "name": "भूपाळी  - निजलिस कां रेणुके !",
+    "search_txt": [
+      "nijalis ka renuke",
+      "mazya aayushachi lut",
+      "kale keli sangu kutha",
+      "naki jau zopi utha mulapeeth nayake"
+    ]
+  },
+  {
+    "number": "9",
+    "name": "भूपाळी - निजलिस कायी । उठ लवकर अंबाबाई ।",
+    "search_txt": [
+      "nijalis kayi uth lavkar ambabai",
+      "tu nijalis shal pangharun",
+      "gelis zopi ghurghurun",
+      "aala kaal javal gurgurun aga aai aai uth lavkar amba bai"
+    ]
+  },
+  {
+    "number": "10",
+    "name": "ओव्या दळणाच्या - ओवी गाईन रेणुकेला",
+    "search_txt": [
+      "aadinaman gapati la",
+      "ganasahit saraswati la",
+      "shubha mangalarambha kela",
+      "ovi gaain renukela",
+      "sada prasanna rupa gomti",
+      "jashi shivachya ganga jati",
+      "tashi akhand mulapeethi",
+      "may rahili dinasathi"
+    ]
+  },
+  {
+    "number": "11",
+    "name": "घनाक्षरी - मुळपीठवासिनी श्रीअंबे । आदिमुळमाये जगदंबे ।\\nमुळाधारे मुळस्तंभे । मुळारंभे रेणुके ।।",
+    "search_txt": [
+      "mulapeeth vasini shri ambe",
+      "adi mulamaye jagadambe",
+      "muladhare mulasthambe",
+      "mularambhe renuke",
+      "nako sadhan dhan kahi kaam stavanache nahi",
+      "tula renuke bai aai bolne pure"
+    ]
+  },
+  {
+    "number": "12",
+    "name": "गोंधळ - \\n माहुरगड-वासिनी आउबाइ ! गोंधळा येई हो",
+    "search_txt": [
+      "mahurgad vasini aaubai gondhala yei ho",
+      "kolhapur vasini ramabai gondhala yei gondhala ho",
+      "tuljapur vasini tukabai gondhala yei ho",
+      "pandharpur vasini bithabai  gondhala yei ho"
+    ]
+  },
+  {
+    "number": "13",
+    "name": "पद - जगदंबे, प्रार्थितों तुला ।\\nपाव तूं मला । तुझा अंबे लोलो लागला ।",
+    "search_txt": [
+      "jagadambe prarthito tula",
+      "paav tu mala tuza ambe lolo lagla",
+      "may renuke lavanya ratnamanike",
+      "din anathjan palake",
+      "rajabalike ruchikatmaj kanthamalke"
+    ]
+  },
+  {
+    "number": "14",
+    "name": "पद - श्रीजगदंबे, अंबे, रेणुके, यावें लवलाही\\n निशिदिनिं स्तवितों पदकमला, तव दर्शन मज देई",
+    "search_txt": [
+      "shri jagadambe ambe reuke yave lavlahi",
+      "nishidin stavito padakamla tav darshan maj dehi",
+      "aai jagadambe ambe renuke yave lavalahi",
+      "nishidin stavito padakamala sthava darshan maja dehi",
+      "darshan maj dehi"
+    ]
+  },
+  {
+    "number": "15",
+    "name": "पद - आई जगदंबे । तुला रेणुके । माझि दया यावी ।\\nप्रपंच खोटा फासेपारधी, मोठी मायावी",
+    "search_txt": [
+      "aai jagadambe tula renuke mazi daya yavi",
+      "mazi daya yavi",
+      "prapanch khota fase paradhi motha mayavi",
+      "fase paradhi motha mayavi"
+    ]
+  },
+  {
+    "number": "16",
+    "name": "पद धावा -\\nअंबाबाई । ये धांवत माझे आई",
+    "search_txt": [
+      "amba bai ye dhavat maze aai",
+      "namo shri tuljapur vasini namo chitkale avinashini",
+      "namo chitkale avinashini",
+      "namo udayostu narayanni akhil var deyi"
+    ]
+  },
+  {
+    "number": "17",
+    "name": "पद - जगदंबे हो । धांवे पावे यावे अविलंबे",
+    "search_txt": [
+      "jagadambe ho dhave pave yave avilambe",
+      "sadanande ho jay narayani veda vande ho"
+    ]
+  },
+  {
+    "number": "18",
+    "name": "पद - धांव ग, धांव आतां धांव, परम स्नेहाळे\\nरेणुके, रेणुके, तूं दिनजननि दयाळे ।",
+    "search_txt": [
+      "dhav g dhav aata dhav param snehale",
+      "renuke renuke tu dinajanani dayale",
+      "vishwachi janani tu jagadambe lekurvale",
+      "yeu de mazi kahi tula karuna kanvale"
+    ]
+  },
+  {
+    "number": "19",
+    "name": "पद ( भैरवी ) -\\nमाझी लाज तुला जगदंबे । आतां धांवत ये अविलंबे ॥",
+    "search_txt": [
+      "mazi laj tula jagadambe aata dhavat ye avilambe",
+      "aata dhavat ye avilambe",
+      "tribhuvan nayake tu mazi aayake vinanti kalpakadambe"
+    ]
+  },
+  {
+    "number": "20",
+    "name": "पद - धांव दयाळे, आतां रेणुके, संकट पडलें मला ।\\nतूं दीनाची माय म्हणुन मी, हांका मारितें तुला",
+    "search_txt": [
+      "dhav dayale aata renuke sankat padle mala",
+      "tu dinachi may mhanun mi haka marito tula",
+      "ya daiva gaticchya payi pardeshi mi padle dur",
+      "aada padle bhav sagar dongar pur lashkar indur"
+    ]
+  },
+  {
+    "number": "21",
+    "name": "पद - \\nये सावळे अंबाबाई, ग माझे आई रेणुके",
+    "search_txt": [
+      "ye savale amba bai ga maze aai renuke",
+      "sansar tapane tapatase hi tanu jashi lahi lahi g",
+      "karmachi kanchani vairyachi jachani sosat nahi nahi g"
+    ]
+  },
+  {
+    "number": "22",
+    "name": "पद - \\nतुळजाबाई ! ये धांवत माझे आई !",
+    "search_txt": [
+      "tulajabai ye dhavat maze aai",
+      "sakal tu vishvachi mauli",
+      "shramitajan kalpadrumasauli",
+      "chintita bahutala pavli deti shruti gwahi",
+      "ye dhavat maze aai"
+    ]
+  },
+  {
+    "number": "23",
+    "name": "पद - \\nजय भवानि बोल । तुझे वचनामृत सुविलोल",
+    "search_txt": [
+      "jay bhavani bol tuze vachanamrut suvilol",
+      "tuze vachanamrut suvilol",
+      "bhargava ramachya pari amha samsaman vajani tol"
+    ]
+  },
+  {
+    "number": "24",
+    "name": "पद - जगदंबे श्रीगजवदन -मदन-जननी ।\\nसन्मति दे भजनीं ।",
+    "search_txt": [
+      "jagadambe shri gajavadan madan janani sanmati de bhajani",
+      "sanmati de bhajani",
+      "shri amareshwari bhramare jay pravire jay jay ekvire"
+    ]
+  },
+  {
+    "number": "25",
+    "name": "पद -\\nआई, तुझ्या दर्शनासि योग्य नाहीं का ?",
+    "search_txt": [
+      "aai tuzya mi darshanasi yogya nahi ka",
+      "renuke tu dinanchi nasasi may ka",
+      "renuke tu dina janachi nasasi may ka"
+    ]
+  },
+  {
+    "number": "26",
+    "name": "पद -\\nकधीं भेटशिल आइ जगदंबे खचित सांग तूं मला मला",
+    "search_txt": [
+      "kadhi bhetshil aai jagadambe khachit sang tu mala mala",
+      "khachit sang tu mala mala",
+      "jovar aahe pran kudi madhe tovar pahu de tula tula"
+    ]
+  },
+  {
+    "number": "27",
+    "name": "पद - श्रीमूळपीठनायके, माय रेणुके, अंबाबाई\\nनको माझि उपेक्षा करूं; पाव लवलाही।",
+    "search_txt": [
+      "shri mulapeeth nayake may renuke amba bai",
+      "nako mazi upeksha karu pav lavlahi",
+      "pav lavlahi"
+    ]
+  },
+  {
+    "number": "28",
+    "name": "पद - कृपा कर श्री अंबाबाई,\\nमाहूरगडवासिनी दयाळे, दर्शन मज देई।",
+    "search_txt": [
+      "krupa kar shri amba bai",
+      "kripa kar shri amba bai",
+      "mahur gadavasini dayale darshan maj dehi",
+      "dayale darshan maja dehi",
+      "dayale anta nako pahu",
+      "ye lavkar kari karuna maja vari nishthur nako hou"
+    ]
+  },
+  {
+    "number": "29",
+    "name": "पद - \\nबोल भवानी जय जगदंबा । ही माहुरगडची अंबा।",
+    "search_txt": [
+      "bol bhavani jay jagadamba",
+      "hi mahur gadachi amba",
+      "mulaoeeth kori bhumika tethe nande devi renuka",
+      "lavanya ratna chandrika hi mula shristhi chi rambha"
+    ]
+  },
+  {
+    "number": "30",
+    "name": "पद - भवानी जयजय जय रेणूके",
+    "search_txt": [
+      "bhavani jay jay jay renuke",
+      "saguna karna kubjaraj kumarike balike ambike",
+      "traimbake parabramha bramhand janani"
+    ]
+  },
+  {
+    "number": "31",
+    "name": "पद  - तुम्हांला पावलि जगदंबा ।\\nअम्हांला भलि लागलि बाबा ।",
+    "search_txt": [
+      "tumhala pavali jagadamba amhala bhali lagali baba",
+      "amhala bhali lagali baba"
+    ]
+  },
+  {
+    "number": "32",
+    "name": "पद - आम्ही चुकलों जरी तरी कांहीं\\nतूं चुकूं नको अंबाबाई ! ",
+    "search_txt": ["amhi chuklo jari tari kahi", "tu chuku nako amba bai"]
+  },
+  {
+    "number": "33",
+    "name": "पद - राहुन गेलि मनात मनाची ।",
+    "search_txt": ["rahuna gele manat manachi", "manachi rahun geke manat"]
+  },
+  {
+    "number": "34",
+    "name": "पद - काय कारण पुसा रेणुकेला\\nमाझा त्याग कशास्तव केला ?",
+    "search_txt": [
+      "kay karan pus renukela",
+      "maza tyag kasha sthav kela",
+      "maza tyaga kashasthav kela"
+    ]
+  },
+  {
+    "number": "35",
+    "name": "पद - हा गांव नाहीं ग भला ।\\nरेणुके, सत्वर मुळ ये मला । हात जोडितें तुला ।",
+    "search_txt": [
+      "ha gava nahi g bhala",
+      "renuke satvar mula ye mala",
+      "haat jodito tula",
+      "ya sasarche sajan sajni divsa ghaliti ghala",
+      "pati dhad stri na purush nighala ha gav nahi ga bhala"
+    ]
+  },
+  {
+    "number": "36",
+    "name": "पद - \\nकुत्रा गुरगुर करतो द्वारीं । माझी हरणी येइ ना घरीं ।",
+    "search_txt": [
+      "kutra gurgur karito dwari mazi harni yei na ghari",
+      "mazi harni yei na ghari",
+      "ya kutrachi aai chorti yachi baila bahu tarkati",
+      "yachi daha pach karti mothi khadad mothi majri"
+    ]
+  },
+  {
+    "number": "37",
+    "name": "पद - आलं चहुंकडुन अभाळ ग ।\\nलेंकरूं आपुलें संभाळ ग",
+    "search_txt": [
+      "aala chahukaduni aabhal g",
+      "aala chahu kaduni aabhal g",
+      "lekaru aapule sambhal g",
+      "kashi baai nijalisa gharat ga nichunta zopechya bharat g",
+      "firati megha ambarat g dhadkich bharli urat g",
+      "varyana uthle kapal g aali chahu kaduni"
+    ]
+  },
+  {
+    "number": "38",
+    "name": "पद - खचितचि मग तूं, माय कशाची\\nनाहिं तुला जरि, माझि आशाची ।",
+    "search_txt": [
+      "khachitachi mag tu may kashachi",
+      "nahi tula jari mazi aashachi"
+    ]
+  },
+  {
+    "number": "39",
+    "name": "पद - मी लेकरूं तूं माय । रेणुके !\\nमी लेंकरुं तूं माय ।",
+    "search_txt": [
+      "mi lekaru tu may renuke mi lekaru tu may",
+      "renuke mi lekaru tu may",
+      "me lekaru tu maya renuke me lekaru tu maya"
+    ]
+  },
+  {
+    "number": "40",
+    "name": "पद - कशी करशील भवपार ।\\nमी भवानी ! जड अपार।",
+    "search_txt": [
+      "kashi karshil bhavpar mi bhavani jad apar",
+      "mi bhavani jad apar",
+      "dwijakuli janmuni zalo mi kamini charma kutita chambhar",
+      "banlo saras ki rasna ras kardaman kumbhar"
+    ]
+  },
+  {
+    "number": "41",
+    "name": "पद - शुभवदने, तुज काय म्हणावें ।\\nपुढिल शुभाशुभ, ध्यानिं अणावें ।।",
+    "search_txt": [
+      "shubhavadane tuja kay mhanave",
+      "pudhil shubha shubh dhyani aanave",
+      "sansar kahi sukhkar nahi",
+      "ugi ya pai kay shinave"
+    ]
+  },
+  {
+    "number": "42",
+    "name": "पद - रेल गाडींत बसून चाल ।\\nधटि नेसून तांबडी लाल ।",
+    "search_txt": [
+      "rail gadit basun chal",
+      "dhati nesun tambadi lal",
+      "tuja tan man dhan kele samarpan",
+      "nako ragana fugavu gal"
+    ]
+  },
+  {
+    "number": "43",
+    "name": "पद - रेणुके काय बाई । तरि तुजला वाटतें ।",
+    "search_txt": [
+      "renuke kay bai tari tujala vatate",
+      "aai tuziya viyogane ur maze fatate",
+      "chintene rakta sare sharirache aatate",
+      "dukhache divas mothya dhairyane lotate"
+    ]
+  },
+  {
+    "number": "44",
+    "name": "पद - समज बाई । आई मुलावीण लटकी ।।",
+    "search_txt": [
+      "samaj bai aai mulavina lataki",
+      "tu din janani din janasthav vasasi ya mula pithaki",
+      "bhop prajajan mandit shobhe shobhat ranshur kataki"
+    ]
+  },
+  {
+    "number": "45",
+    "name": "पद - असं म्हणुं नको बाई । रेणुके !",
+    "search_txt": [
+      "asa mhanu nako bai renuke",
+      "khachit sangto tula navhe mi dinachi aai",
+      "re chandala dur ho lagu nako maja sahasahi"
+    ]
+  },
+  {
+    "number": "46",
+    "name": "पद - आतां तुझ्या धरीन पदरास",
+    "search_txt": [
+      "aata tuzya dharin padaras",
+      "mi hina dina mhanuni tula jagadambe ambe din janani",
+      "samaj mani aanin daras",
+      "shubha mangal soubhagya dhane sukhasadane shubhavadane he durjay",
+      "ripubharge jaydurge tu purnamrutkar chakoras"
+    ]
+  },
+  {
+    "number": "47",
+    "name": "पद - आदि माय रेणुके माझें ।\\nतुज काय वाटलें ओझें।",
+    "search_txt": [
+      "aadi may renuke maze",
+      "tuja kay vatale oze",
+      "anandi sadananda mandire",
+      "akhand soubhagya shri indire",
+      "tripatake tripur sundare",
+      "tuze saguna rupa viraje"
+    ]
+  },
+  {
+    "number": "48",
+    "name": "पद - उदय मुळपिठवासिनि जगदंबे ॥",
+    "search_txt": [
+      "udaya mulapeeth vasini jagadambe",
+      "kundalini komal tanu balake hridaya kamalnilayambe"
+    ]
+  },
+  {
+    "number": "49",
+    "name": "पद - काय म्हणावें तुला ।\\nरेणुके ! कळलें उपेक्षिसी मला।",
+    "search_txt": [
+      "kay mhanave renuke kalale upekshisi mala",
+      "kalale upekshisi mala",
+      "icchuni aasha kanak dhanachi nishthur zalis kathor manachi",
+      "tari mag kaisi dina manachi may mhanave tula"
+    ]
+  },
+  {
+    "number": "50",
+    "name": "पद - नाहीं वक्त रेणुके भला ।\\nमाझी करुणा येउं दे तुला ।।",
+    "search_txt": [
+      "nahi vakta renuke bhala",
+      "mazi karuna yeu de tula",
+      "tu asa mhanu nako mala",
+      "aata hanuna lava yala",
+      "dhad yet nahi bolta ek akshar naye lihita",
+      "mhane daat khauni peeta"
+    ]
+  },
+  {
+    "number": "51",
+    "name": "पद - आई जगदंबा श्रीमंत कृपाघन मोठी\\nकिती वर्णावी गंभीर गुणांची कोटी ।।",
+    "search_txt": [
+      "aai jagadamba shimant krupaghan mothi",
+      "kiti varnavi gambhir gunanchi koti",
+      "akhandit ganga soubhagya mula peethvasi",
+      "ase ghadvena lavanya bramha devasi",
+      "dhan jan matapur punyakshetra rahivasi",
+      "swarga sukhagami laviti haat daivasi",
+      "ghadit ghadi modi bramhande kotichya koti"
+    ]
+  },
+  {
+    "number": "52",
+    "name": "पद - किति धरसिल तरि अबोला ग ।\\nबाई, तुझा स्वभाव नाहीं हा भला।",
+    "search_txt": [
+      "kiti dharsil tasi abola g",
+      "bai tuza swabhav nahi ha bhala",
+      "shri mulapeeth nayake kaivalya sukha dayake",
       "mazi vinanti aayake",
-      "make aai renuke",
-      "narayani shri shankare annapurne vishwambhare",
-      "krupa karne hechi bare"
+      "tu baap mauli guru mi lekaru nako dur karu",
+      "tuza purani bahu galbala bai"
+    ]
+  },
+  {
+    "number": "53",
+    "name": "पद - तुला माझी आठवण कशानं यावी\\nमला तुझी भेट गडे कशानं व्हावी ।।",
+    "search_txt": [
+      "tula mazi aathavan kashani yavi",
+      "mala tuzhi bhet gade kashani vhavi",
+      "tula nath fulbalya bugadyanchi jodi",
+      "mazya nakamadhe bai gavatachi kadi",
+      "tula lal shaljodi pivali sadi"
+    ]
+  },
+  {
+    "number": "54",
+    "name": "पद - असं नको करूं अंबाबाई ।\\nतुला जन हंसतील अग आई !",
+    "search_txt": ["asa nako karu amba bai", "tula jana hastila aga aai"]
+  },
+  {
+    "number": "55",
+    "name": "पद - आली आई भवानी स्वप्नांत",
+    "search_txt": [
+      "aali aai bhavani swapnat",
+      "shri varda suprasanna murti",
+      "jashi vija chamke gaganat",
+      "saral bhang nila bujangveni",
+      "kajal lyali nayanat"
+    ]
+  },
+  {
+    "number": "56",
+    "name": "पद - रेणुके! मजला मुळ धाडी ।\\nआतां या दुःखातुन काढी ।।",
+    "search_txt": [
+      "renuke majala mula dhadi aata ya dukka tuna kadhi",
+      "aata ya dukka tuna kadhi"
+    ]
+  },
+  {
+    "number": "57",
+    "name": "पद - आई, खरंच ग । जें केलंस तें बरंच ग ।",
+    "search_txt": [
+      "aai kharach g je kelas te barach g",
+      "mazi dhan doulat bayako tuzya manat vatli nako",
+      "janmachi fatfat karmachi khat khat",
+      "zatpat kelis durach g aai kharach g"
+    ]
+  },
+  {
+    "number": "58",
+    "name": "पद - आदिश्रीजगदंबा गिरिजा । जानकीरूप धरी ।",
+    "search_txt": [
+      "aadi shi jagadamba girija janaki rupa dhari",
+      "janaki rupa dhari",
+      "harina mage balechi pitali ticha sathi taru kavtali",
+      "padla mayechya ghotali to mani chinti madanari"
+    ]
+  },
+  {
+    "number": "59",
+    "name": "पद- प्रकट मूळपीठादि भवानी\\nदेवि रेणुका सती । पाहिली सिंहाद्री पर्वतीं ॥",
+    "search_txt": [
+      "prakata mulapeethadi bhavani devi renuka sati",
+      "devi renuka sati",
+      "pahili sihandri parvati",
+      "chandra vadan mriga nayana viraje brukuti dhanushya kruti",
+      "drishti dhari asuravar vakra ti"
+    ]
+  },
+  {
+    "number": "60",
+    "name": "पद - ही परम कृपेची माउली हो ।\\nही विश्रांतिची साउली हो।",
+    "search_txt": [
+      "hi param krupechi mauli ho",
+      "hi vishrantichi sauli ho",
+      "hi lavanya rupa chandrika ratnamudrika vijay bhadrika",
+      "anu renuka may renuka ine vedavani bolavali ho",
+      "ine suryachi gati chalvali ho"
+    ]
+  },
+  {
+    "number": "61 ",
+    "name": "कटाव रेणुकेचा - ये ग ये ग ये ग जगदंबे ॥",
+    "search_txt": [
+      "ye g ye g ye g jagadambe",
+      "jay jay renuraj kumare aai renuke ati sakumare",
+      "jagajanani jay jagadodhare krushna malik gram bihare",
+      "tripur sundare tritap hare amritkarvar ajar aamre",
+      "aanandghan kaivalya mandire thakiti sankadik samore"
+    ]
+  },
+  {
+    "number": "62",
+    "name": "अभंग - जय सौभाग्यमंडित । बज्रचुडे अखंडित ।",
+    "search_txt": [
+      "jay soubhagya mandir bajrachude akhandit",
+      "jay mangal vardhini jay yadneshwar nandini",
+      "tula maza namaskar maye tuza jay jay kar"
+    ]
+  },
+  {
+    "number": "63",
+    "name": "अभंग - मन लागलें लागलें । तुझ्या स्वरूपीं रंगलें ।\\nअंबे, तुझें चंद्रबिंब । दिसे चांगलें चांगलें ।।",
+    "search_txt": [
+      "man lagale tuzya swarupi rangle",
+      "ambe tuze chandra bimba dise changle changle",
+      "surat sundar savli sadi shobhte pivali",
+      "ratnadeep prabhavali moni manik povali",
+      "tuze gata rupa guna veda bhagle bhagle man"
+    ]
+  },
+  {
+    "number": "64",
+    "name": "अभंग - रूप सुंदर सुंदर ।\\nध्याती योगी दिगंबर।",
+    "search_txt": [
+      "rupa sundar sundar dhyati yogi digambar",
+      "ratna jadit sihasani shobhe sihandri vasini",
+      "dise malvat changla mukhi tambul rangla"
+    ]
+  },
+  {
+    "number": "65",
+    "name": "अभंग - अज्ञान अंधार पडलासे दाट ।\\nआतां मज वाट दाखवावी ।",
+    "search_txt": [
+      "agyan andhar padalase daat",
+      "aata maj vat dakhavavi",
+      "kadadati zade modatati kate",
+      "aadalti gote velovela"
+    ]
+  },
+  {
+    "number": "66",
+    "name": "अभंग - अग आई तूं रेणुके ।\\n माझी विनंती आयके ।",
+    "search_txt": [
+      "aga aai tu renuke mazi vinanti aayake",
+      "tuze agyan lekaru sadhane mi kay karu",
+      "tuzya navachya pratape jalit maha ghor pape"
+    ]
+  },
+  {
+    "number": "67",
+    "name": "अभंग - आजी धन्य धन्य झालों ।\\nमूळ पीठासनीं आलों ॥",
+    "search_txt": [
+      "aaji dhanya dhanya zalo",
+      "mula peethanasi aalo",
+      "tuzi pahili paule",
+      "maze man sukh pavale"
+    ]
+  },
+  {
+    "number": "68",
+    "name": "अभंग - अग अनाथाचे आई ।\\nतुला म्हणती अंबाबाई।",
+    "search_txt": [
+      "aga anathache aai ",
+      "tula mhanti amba bai",
+      "tari thodi bahut kahi",
+      "majvar krupa keli nahi"
+    ]
+  },
+  {
+    "number": "69",
+    "name": "अभंग - ऐसी अंतर पारखी । कोण रेणुकेसारखी ।",
+    "search_txt": [
+      "aaise antar paarkhi kon renuke sarkhi",
+      "sarva sakshini dolas kada karina aalas",
+      "jane dinachi kalval dhavuniya ye javal"
+    ]
+  },
+  {
+    "number": "70",
+    "name": "अभंग - नित्य मातृतीर्थी स्नान । सर्व देव तीर्थे काशी ।",
+    "search_txt": [
+      "nitya matru tirthi snan sarva dev tirthe kashi",
+      "ujaloni gyan jyoti nitya ovalu aarti",
+      "karu tirthamrut paan hechi jap tap dhyan"
+    ]
+  },
+  {
+    "number": "71",
+    "name": "अभंग - मातृतीर्थी रहिवास । हेंचि वैकुंठ कैलास ।।",
+    "search_txt": [
+      "matru tirthi rahivas hechi vaikunth kailas",
+      "nitya bhajan pujan nitya bhikshanna bojan",
+      "sada prasanna murati vase saihandri parvati"
+    ]
+  },
+  {
+    "number": "72",
+    "name": "अभंग - मूळपीठाची वेल्हाळा । आदिमाय ज्ञानकळा ।",
+    "search_txt": [
+      "mulapeethachi velhala adimay gyankala",
+      "aai baisali navratri zadati chaughade vajantri",
+      "pudhe ghat mandit mala dwari hotase sohala"
+    ]
+  },
+  {
+    "number": "73",
+    "name": "अभंग - येग येग अंबाबाई | एकवीरे माझे आई ।",
+    "search_txt": [
+      "yega yega ambabai ekvire maze aai",
+      "joduniya donhi haat vaat tuzi mi pahat",
+      "dhir thevin charni rupa pahin nayani"
+    ]
+  },
+  {
+    "number": "74",
+    "name": "अभंग - अंबाबाईंचे माहूर । आतां राहिलें तें दूर ।",
+    "search_txt": [
+      "amba bai che mahur aata rahile te dur",
+      "maze prarabdhachi dwad thor padle parvat aad",
+      "kam krodacha bharpur pranitela aala pur"
+    ]
+  },
+  {
+    "number": "75",
+    "name": "अभंग - दीन अनाथाचे आई ।\\nतुला म्हणती अंबाबाई ।",
+    "search_txt": [
+      "din anathache aai tula mhanti amba bai",
+      "tari thodi bahut kahi majvar krupa keli nahi",
+      "aaise maze chitta thayi det ase man gwahi"
+    ]
+  },
+  {
+    "number": "76",
+    "name": "अभंग - माझी रेणुका माउली ।\\nकल्पवृक्षांची साउली ।",
+    "search_txt": [
+      "mazi renuka mauli kalpa vrukshachi sauli",
+      "vrukshachi savali",
+      "jaise vatsalagi gay taise anathasi may",
+      "hake sarashi ghai ghai vege dhavatachi payi"
+    ]
+  },
+  {
+    "number": "77",
+    "name": "अभंग - आपुलीया बाळा आपुलीया करीं ।\\nमारी परि दूरी धरूं नको ॥",
+    "search_txt": [
+      "aapuliya bala aapuliya kari",
+      "mari pari duri dharu nako",
+      "aapuliya hate kapavi ho maan",
+      "jagat apaman karu nako",
+      "swanapari thevi aapulya sangrahi",
+      "pari paragruhi dhadu nako"
+    ]
+  },
+  {
+    "number": "78",
+    "name": "अभंग - अग आई, विश्वंभरे ।\\nदगा देणें नाहीं बरें ।।",
+    "search_txt": [
+      "aga aai vishvambhare daga dene nahi bare",
+      "daga dene nahi bare",
+      "ag aai vishwambhare daga dene nahi bare",
+      "lobha launi aagla mag kapu naye gala"
+    ]
+  },
+  {
+    "number": "79",
+    "name": "अभंग - अंबे, तुझ्या भेटीसाठी । धीर धरवे ना पोटीं ।",
+    "search_txt": [
+      "ambe tuzya bheti sathi dhir dharave na poti",
+      "dhir dharave na poti",
+      "tuzya pahata rupala jiva maza vara pyala",
+      "ubha rahilo angani tuzi lagli jogani"
+    ]
+  },
+  {
+    "number": "80 ",
+    "name": "आरती - श्रीरेणुके, जय भगवंते, आनंते,\\nअचिंते, जयवंते, दैत्य-निहंते ।। श्रीरेणुके जय. ।।",
+    "search_txt": [
+      "shri renuke jay bhagavante anante achinte",
+      "jayvante daitya nihante",
+      "he shubhavadane chitsukhavasadane",
+      "shri vardatta shrimante"
+    ]
+  },
+  {
+    "number": "81",
+    "name": "आरती - जयदेवी जयदेवी जयजय एकविरे श्रीरेणुके जननी जय जगदोद्धारे ।।",
+    "search_txt": [
+      "jay devi jay devi jay jay dekvire",
+      "shri renuke janani jay jagadodhare"
+    ]
+  },
+  {
+    "number": "82",
+    "name": "आरती - ही आदिमाया जगदंबा । रेणुका, कुलस्वामिनी, अंबा |",
+    "search_txt": ["hi aadimaya jagadamba", "renuka kulaswamini amba"]
+  },
+  {
+    "number": "83",
+    "name": "आरती - विपुल दयाघन गर्जे ।",
+    "search_txt": [
+      "vipul dayadhan garje tav hridayabari shri renuke ho",
+      "palbhar nar bhorachi karunavani hi aayake ho"
+    ]
+  },
+  {
+    "number": "84",
+    "name": "आरती - जय जय जगदंबे । श्रीअंबे । रेणुके, कल्पकदंबे ।",
+    "search_txt": ["jay jay jagadambe shri ambe renuke kalpakadambe"]
+  },
+  {
+    "number": "85",
+    "name": "आरती - जय जय श्रीरेणुके, अंबे, मुळपीठनायके, हो ओवाळू आरती अखंडसौभाग्यदायके, हो ।।",
+    "search_txt": [
+      "jay jay shri renuke ambe mulapeeth nayake ho",
+      "ovalu aarti akhand soubhagya dayake ho"
+    ]
+  },
+  {
+    "number": "86",
+    "name": "आरती - जय जय रेणुके, सदा सदय तूं प्रसन्न रूपमूर्ती",
+    "search_txt": [
+      "jay jay renuke sada saday tu prasanna rupamurti",
+      "mrugarajachal pavak agh nag dahak mahivarti",
+      "siddha sadhusam patit pati nar namane udharti"
+    ]
+  },
+  {
+    "number": "87",
+    "name": "आरती - अंबे, चित्सुखकल्पलते ।\\nजय जय करुणामृत सरिते ।",
+    "search_txt": ["ambe chitsukh kalpalate", "jay jay karunamrut sarite"]
+  },
+  {
+    "number": "88",
+    "name": "आरती - जय जय ब्रह्मविलासी",
+    "search_txt": [
+      "jay jay bramhavilasi",
+      "shri murgarajachal rahivasi ho",
+      "darshan matre desi ambe",
+      "shivpan sahaj jivasi ho"
+    ]
+  },
+  {
+    "number": "89",
+    "name": "आरती - जय जय रेणूके आइ, जगदंबे ।\\nओवाळू आरति मंगळारंभे ||",
+    "search_txt": ["jay jay renuke aai jagadambe", "ovalu aarati mangalarambhe"]
+  },
+  {
+    "number": "90",
+    "name": "आरती - जय जय नदिपति प्रिय तनये ।",
+    "search_txt": ["jay jay nadipati priya tanaye", "bhavani mahalaxmi maye"]
+  },
+  {
+    "number": "91",
+    "name": "आरती - जयदेवी जयदेवी जय मंगल-निलये\\nओवाळु आरती कमलोद्भव तनये ।।",
+    "search_txt": [
+      "jay devi jay devi jay mangal nilaye",
+      "ovalu aarti kamalodbhava tanaye"
+    ]
+  },
+  {
+    "number": "92",
+    "name": "अष्टक - अखिल पतितांची, दुरित कृती केली \\n( ... लाज याची रेणुके, तुला सारी ।)",
+    "search_txt": [
+      "akhil patitachidurit kruti keli",
+      "patitpavan hi kirti aaykeli",
+      "mhanuni padlo yeuni tuzya dari",
+      "laaj yachi renuke tula sari"
+    ]
+  },
+  {
+    "number": "93",
+    "name": "अष्टक - लक्ष-कोटि चंडकीर्ण \\n ( धर्म अर्थ काम मोक्ष कल्पवृक्षरेणुका )",
+    "search_txt": [
+      "laxakoti chandakirna suprachand vilapati",
+      "amba chandra vadana bimba diptimaji lopati",
+      "siha shikhar achalvasi mulapeeth nayaka",
+      "dharma arha kama moksha kalpavruksha renuka",
+      "kalpa vruksha renuka"
+    ]
+  },
+  {
+    "number": "94",
+    "name": "अष्टक - तूं विचित्र गारुडीण काय खेळ माडसी\\n( ... हें विहीत काय, सांग, माय रेणुके ! तुला । )",
+    "search_txt": [
+      "tu vichitra garudita kay khela mandasi",
+      "raktamaas asthichya gruhat jeeva kondasi",
+      "pran kanthi patlyahi sodasi na ka mala",
+      "he vihit kay sangu may renuke tula",
+      "he vihita kay sangu maya renuke tula"
+    ]
+  },
+  {
+    "number": "95",
+    "name": "अष्टक - तुझें सुंदर रुप रेणुके विराजे\\n( ... तुला माझा अंबिके ! नमस्कार । )",
+    "search_txt": [
+      "tuze sundar rupa renuke viraje",
+      "varnitati muni deva devi raje",
+      "kona swagunacha karila gunakar",
+      "tula maza ambike namaskar"
+    ]
+  },
+  {
+    "number": "96",
+    "name": "अष्टक - श्रीमूळपीठ-शिखर स्थळि कोटि लक्ष\\n( ... तूं एक वेळ तरि दर्शन दे भवानी )",
+    "search_txt": [
+      "shri mulapeeth shikhar sthali koti laksha",
+      "chintamani surabhi shobhati kalpavruksha",
+      "mi tetha mandamati ka shrimato basuni",
+      "tu ek vela tari darshan de bhavani",
+      "darshan de bhavani"
+    ]
+  },
+  {
+    "number": "97",
+    "name": "अष्टक - दयाळे ! तुझ्या कोटि ब्रह्मांड पोटी\\n ( ... परंतू अवो रेणुके, रेणुके, रेणुके ! तूं ॥ )",
+    "search_txt": [
+      "dayale tuzya koti bramhand poti",
+      "swaye palishi jiva kotyanukoti",
+      "nupekshi mala aadimaye parantu",
+      "avo renuke renuke renuke tu",
+      "aho renuke renuke renuke tu"
+    ]
+  },
+  {
+    "number": "98",
+    "name": "अष्टक - सदा सर्वदा मोरया, शारदाही\\n( ... अवो रेणुके, रेणुके, रेणुके ! तूं ॥ )",
+    "search_txt": [
+      "sada sarvada moraya sharda hi",
+      "sada sarvada sadguruchya padahi",
+      "nasave parantu parantu parantu",
+      "avo renuke renuke renuke",
+      "aho renuke renuke renuke"
+    ]
+  },
+  {
+    "number": "99",
+    "name": "अष्टक - जय जय जय वंदे मातरं मातरं गे ।",
+    "search_txt": [
+      "jay jay ganaraya moraya shighra yei",
+      "jay jay jay mate sharde rang dei",
+      "jay jay jay gange shri guru pandurange",
+      "jay jay jay vande mataran mataran ge"
+    ]
+  },
+  {
+    "number": "100",
+    "name": "अष्टक - श्रीअंबे, जय रेणुके, जननि हे, कां राग आला तुला ।।",
+    "search_txt": [
+      "shri matapur vasini bhagavati chintamani sharda",
+      "chintito tuja tyasahita namito shri sadguru narada",
+      "pave satvar shreshtha nama mahima januniya aapula",
+      "shri ambe jay renuke janani he ka raag aala tula",
+      "ka raag aala tula"
+    ]
+  },
+  {
+    "number": "101",
+    "name": "अष्टक - जन्मा येउनि व्यर्थ मानवकुळीं एरंडसा वाढलों\\nअंबाबाई, अतां नको पुनरुपी संसारिं घालूं मला ॥",
+    "search_txt": [
+      "janma yeuni vartha manavkuli erandasa vadhlo",
+      "zalo mi dhad ikade na tikade aadhe madhe naadlo",
+      "nahichi paramarth swarth lavahi swapnatri labhla",
+      "ambabai aata nako punarupi sansari ghalu mala",
+      "amba bai aata nako punarupi sansari ghalu mala",
+      "punarupi sansari ghalu mala"
+    ]
+  },
+  {
+    "number": "102",
+    "name": "अष्टक - माझा हा प्रणिपात आइ, तुळजाबाई, तुकाई तुला ।",
+    "search_txt": [
+      "zalo jankichya vine thakit mi aaranya kanthavaya",
+      "kousalye pari dhavuni aalis ya ramasi bhetvaya",
+      "ha ha kay aji jagat twa dhanya kele mala",
+      "maza ha pranipat aai tuljabai tukai tula",
+      "tuljabai tukai tula"
+    ]
+  },
+  {
+    "number": "103",
+    "name": "अष्टक - श्रीकृपानिधे विश्वनायके ।\\n( ... रेणुके ! मला पावसी कधीं । )",
+    "search_txt": [
+      "shri krupanidhe vishvanayake",
+      "he bhavani soubhagya dayake",
+      "prarthito tula mi padopadi",
+      "renuke mala pavsi kadhi",
+      "renuke mala pavasi kadhi"
+    ]
+  },
+  {
+    "number": "104",
+    "name": "अष्टक - माझि पतिताची, पापकृती खोटी । \\n ( ऊठ अंबे ! तूं झोंपि नको जाऊं ॥ )",
+    "search_txt": [
+      "mazi patitachi papkruti khoti",
+      "tuzi pavan karnyachi shakti mothi",
+      "samajvanta mi kay samajau",
+      "utha ambe tu zopi nako jau",
+      "uth ambe tu zopi nako javu"
+    ]
+  },
+  {
+    "number": "105",
+    "name": "अष्टक - तुझीं आसती कोटि ब्रह्मांड बाळें ।\\n ( नको रेणूके ! आपुलें ब्रीद सोडूं ॥ )",
+    "search_txt": [
+      "tuzi aasti koti bramhand bale",
+      "tase ghei poti malahi dayale",
+      "nako dusarya garbha vasasi dhadu",
+      "nako renuke aapule brida sodu",
+      "nako renuke aapale brid sodu"
+    ]
+  },
+  {
+    "number": "106",
+    "name": "अष्टक - नभो आदि गौरीसुता एकदंता\\n ( अतां रेणुके ! दुःख माझें निवारी  )",
+    "search_txt": [
+      "nabho aadi gaurisuta ekadanta",
+      "namo sharda sadguru gyandata",
+      "namo aadishakti mahishasurari",
+      "aata renuke dukkha maze nivari",
+      "aata renuke dukha maze nivari",
+      "dukha maze nivari"
+    ]
+  },
+  {
+    "number": "107",
+    "name": "अष्टक - श्रीमंत गुणवंत तूं, सदय मंगलालंकृत ।\\n ( म्हणूनि तुजला अलों, शरण मी आई रेणुके । )",
+    "search_txt": [
+      "shrimant gunavant tu saday mangalalankrut",
+      "pasantisa tuzya naye stavan dubale prakrut",
+      "nijastavani tekili padi sahastrahi mastake",
+      "mhanuni tujala aalo sharan mi aai renuke",
+      "mhanuna tujala aalo sharana mi aai renuke"
+    ]
+  },
+  {
+    "number": "108",
+    "name": "अष्टक - नमस्ते श्रीअंबे विजय परशूरामजननी ।।",
+    "search_txt": [
+      "namaste shri ambatmaja ganpati bramha kumri",
+      "namaste shri vidya vadan kamalanand bhramari",
+      "namaste shri dattatraya guru krupasagar muni",
+      "namaste shri ambe vijayi parashuram janani",
+      "namaste shriambe vijaye parasuram janani"
+    ]
+  },
+  {
+    "number": "109",
+    "name": "अष्टक - भो नारायणि ! माय काय तुजला, आतां म्हणावें तरी ।",
+    "search_txt": [
+      "shri ambe jay renuke gunanidhe saubhagya suvasini",
+      "muktalankarane sugandh sumane shri mulapethasani",
+      "anande basalisa kuntuni bhabambodhit jaise tari",
+      "bho narayani may tujala aata mhanave tari",
+      "bho narayani maya tujala aata mhanawe tari"
+    ]
+  },
+  {
+    "number": "110",
+    "name": "अष्टक - न द्यावी कां वाटे, पतित म्हणुनी भेट मजला । \\n ( ... अगाई रेणूके ! किति दिन असे बोलुंच नये । )",
+    "search_txt": [
+      "na dyavi ka vate patita mhanuni bhet mala",
+      "na ghyavi ka vate khabarahi anathachi tujala",
+      "natodharayachi say azuni ka yeuch naye",
+      "agai renuke kiti dina ase boluch naye",
+      "agai renuke kiti din ase bolucha naye"
+    ]
+  },
+  {
+    "number": "111",
+    "name": "अष्टक - येक वेळही कधीं न, बह्मवृंद वंदिले ।\\n ( आपराध हे क्षमा तुं, माय रेणुके करी ।। )",
+    "search_txt": [
+      "yeka velahi kadhi na bahyavrunda vandile",
+      "sarvakal punyavanta sadhusant nindile",
+      "jahali vadila sabhya sajjanachi maskari",
+      "aparadh he kshama tu may renuke kari",
+      "aparadha he kshama tu maya renuke kari"
+    ]
+  },
+  {
+    "number": "112",
+    "name": "अष्टक - साष्टांगे करितों प्रणाम चरणा, जयजय महाकालिके ।",
+    "search_txt": [
+      "jay jay vishvapate himachalsute satya vrate bhagavate",
+      "vancha kalpalate kruparnav dhrute bhaktankite sanmate",
+      "sadhu vatsalate adharmarahite sadharma shri palake",
+      "sashtange karito pranam charna jay jay mahakalike",
+      "jay jay mahakalike"
+    ]
+  },
+  {
+    "number": "113",
+    "name": "प्रदीर्घ अष्टक - श्रीपुण्य क्षेत्रस्थळ माहुर येकवीरे",
+    "search_txt": [
+      "shri punya kshetra mahur yekavire",
+      "tirthodaki durita pank anekavire",
+      "shri renuke vimal davi padarvinde",
+      "narayani jay jagajanani anande"
+    ]
+  },
+  {
+    "number": "114",
+    "name": "प्रदीर्घ अष्टक - ये जगदंबे ! धांवत, टाकुन मागें कराल पवन मना ।",
+    "search_txt": [
+      "ye jagadambe dhavat takuna mage karal pavan mana",
+      "mhantil sura twapadi ya aayogyachi kinkara lapav namana"
+    ]
+  },
+  {
+    "number": "115",
+    "name": "प्रदीर्घ अष्टक - खचित रेणुके ! सांग येवढे ।",
+    "search_txt": [
+      "jay namostute shri namostute adi namostute prarthito tute",
+      "janani deshi ki laxa ikade khachit renuke sang yevade",
+      "khachit renuke sang yevade"
+    ]
+  },
+  { "number": "116", "name": "N/A", "search_txt": [""] },
+  {
+    "number": "117",
+    "name": "प्रदीर्घ अष्टक - श्रीमुळपिठ वासिनी भवानी, येकविरे जगदंबे ।",
+    "search_txt": [
+      "shri mulapeeth vasini bhavani yekavire jagadambe",
+      "renu rajache nandini shri renuke vishva kutumbe",
+      "ruchikatmaj kante bruguramache mate"
+    ]
+  },
+  {
+    "number": "118",
+    "name": "गुरुचे पद - अळस नको करूं ये गुरुराया ।\\nतुजविण नरतनु जाईल वायां ।।",
+    "search_txt": [
+      "aalas nako karu guru raya",
+      "tujavina nar tanu jaila vaya",
+      "ya bhavakanani bhay vate dongar ajagar kantak vate",
+      "shadripu vrukavyaghra taplet khaya tujavina "
+    ]
+  },
+  {
+    "number": "119",
+    "name": "श्रीगुरुस्तवन - अतां केव्हा तरि याल गुरूराया ॥",
+    "search_txt": [
+      "aata kevha tari yal guru raya",
+      "mala dattatrai swami uddharaya",
+      "vividha dukkhe laglo ghabraya",
+      "ata kevha tari yaal guru raya"
+    ]
+  },
+  {
+    "number": "120",
+    "name": "अष्टक चिन्मयानंदाचें - गुरू चिन्मयानंद स्वामी दयाळा",
+    "search_txt": [
+      "namo moraya sharda morayani",
+      "guru satchitanand kaivalya dani",
+      "guru shankar aacharya aacharyamala",
+      "guru chinmayanand swami dayala"
+    ]
+  },
+  {
+    "number": "121",
+    "name": "आरती श्रीचिन्मयानंद गुरुमालिकेची -\\n जयजय चिन्मय आदिनाथ गुरु, परब्रह्म लिंगा ।",
+    "search_txt": [
+      "aarti shri chinmayanand gurumalikechi aarti",
+      "jay jay chinmay aadinath guru parabramha linga",
+      "pranav rupini sishya shiromani triveni bhavganga",
+      "trigunatmak traymurti pragatlya taapatrya bhanga",
+      "ovalu dhup deep nirnjan aarti nijaranga"
+    ]
+  },
+  {
+    "number": "122",
+    "name": "आरती श्रीविष्णुदासाची",
+    "search_txt": [
+      "aarti vishnudasachi",
+      "jay jay gurumurti purushottam saraswati",
+      "ovalu maharaja jivashivatma jyoti"
+    ]
+  },
+  {
+    "number": "123",
+    "name": "आरती श्रीविष्णुदास कवींची",
+    "search_txt": [
+      "jay jay shri guru purushotam anand saraswati swami ho",
+      "tadarshani sukhi zalo sahkul aalo nija sukhadhami ho"
+    ]
+  },
+  {
+    "number": "124",
+    "name": "आरति श्री गुरुदासाची । परात्पर गुरुवर चरणाची ।",
+    "search_txt": ["aarti shri guru dasachi paratpar guruvar charnachi"]
+  },
+  {
+    "number": "125",
+    "name": "आरती सद्गुरुनाथाची",
+    "search_txt": ["shri sadguru narahari raya", "aarti ovalu sadaya"]
+  },
+  {
+    "number": "126",
+    "name": "सांप्रदायिक प्रार्थना",
+    "search_txt": [
+      "sampradayika prarthana",
+      "patit mhanuni alo patitpavna shankara",
+      "krutharth majla kara sakal guna ratnakara"
+    ]
+  },
+  {
+    "number": "127",
+    "name": "मागणी ",
+    "search_txt": [
+      "magani",
+      "rutushila jalavrushti tushti pushti aso de",
+      "sukha maya kari srushti dukkha drishti naso de",
+      "hari har parameshthi pushi rakshota mage",
+      "jay jay jay vande matar mataran ge"
     ]
   }
 ]
