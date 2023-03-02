@@ -134,6 +134,7 @@ dist
 __generated__
 web-build
 bare-apps
+.expo-shared
 
 # macOS
 .DS_Store
