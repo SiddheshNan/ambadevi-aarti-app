@@ -1,9 +1,5 @@
 [
-  {
-    "number": "0",
-    "name": "अष्टक पुस्तिका 1 (COMBINE)",
-    "search_txt": ["ashtak pustika 1 combine"]
-  },
+  { "number": "0", "name": "अष्टक पुस्तिका 1 (COMBINE)", "search_txt": [""] },
   {
     "number": "1",
     "name": "नमनपर पद - नमो गणराया मंगलमूर्ती ।\\nसकल विबुधगण मंगल गाती ",
@@ -235,7 +231,7 @@
   },
   {
     "number": "24",
-    "name": "पद - जगदंबे श्रीगजवदन -मदन-जननी ।\\nसन्मति दे भजनीं ।",
+    "name": "पद - जगदंबे श्रीगजवदन - मदन - जननी ।\\nसन्मति दे भजनीं ।",
     "search_txt": [
       "jagadambe shri gajavadan madan janani sanmati de bhajani",
       "sanmati de bhajani",

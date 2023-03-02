@@ -2,7 +2,7 @@
   {
     "number": "0",
     "name": "देवी आरती संग्रह पुस्तिका \n(COMBINE)",
-    "search_txt": ["aarti pustika combine", "devi aarti sangrah pustika"]
+    "search_txt": [""]
   },
   {
     "number": "1",
@@ -66,6 +66,7 @@
     "name": "जय जय हो नवचंडे ।",
     "search_txt": [
       "jay jay ho navachande",
+      "navachande",
       "tripure chandamunda bal dandhe ho",
       "kali kilmish avakhande",
       "janani ashtadash bujdande ho",
@@ -80,6 +81,7 @@
     "name": "जय जय हो जगदंबे।\\nएकविरे रेणुका दुहिते।",
     "search_txt": [
       "jay jay ho jagadambe ekvire renukaduhite o",
+      "ekvire renukaduhite o",
       "ruchikatmaja priyakante bhargav ramachi dwijmate o",
       "mulapith rahivas mrugppati baisali manduni thane o",
       "dattatrya varadayak sahastrabahu marduni prani o",
@@ -141,6 +143,7 @@
     "name": "अश्विन शुक्लपक्षी",
     "search_txt": [
       "ashwin shukla pakshi amba baisali sinhasani ho",
+      "amba baisali sinhasani ho",
       "pratipade pasuni ghata sthapana karuni ho",
       "bramha vishnu mahesh tuze pujan kariti ho",
       "udho mhanava udho ambabai mauli cha ho",
@@ -190,6 +193,7 @@
     "name": "आरती त्रिभुवन जननीची ।",
     "search_txt": [
       "aarti tribhuvan janani chi bhavani aadi ambikechi",
+      "bhavani aadi ambikechi",
       "sumangal samay aji aala patali janani matagruhala",
       "kanthi soubhagya ratnamala dipavi jyoti divati jwala",
       "malvati bhali chandra bharla pahuni vrutti bhava harla",
@@ -203,6 +207,7 @@
     "name": "ऐके जगदंबे । तुझे तुजप्रती ।",
     "search_txt": [
       "aike jagadambe tuze tuzprati sangato o",
+      "tuze tuzprati sangato o",
       "mana maze vyakul bhavani iccha fala magato o",
       "shrustivar hindata panthi dekhili ekachi naar o",
       "sola sahastra avatar dharun mhane mi kurnakar o",
@@ -215,6 +220,7 @@
     "name": "आरती करा भवानीची ।",
     "search_txt": [
       "aarti kara bhavanichi bhaktikari tripur sundarichi",
+      "bhaktikari tripur sundarichi",
       "vidhi bhavasta adimaya vibudhajan aale paya",
       "staviti jana asur taap jaya lagale bhagavati guna gaya",
       "aaradhan kariti bhuvanasi",
@@ -238,6 +244,7 @@
     "name": "आरती अंबा पदकमला ।",
     "search_txt": [
       "aarti amba padakamla sevi sadbhave kamla",
+      "sevi sadbhave kamla",
       "sihasani ubhi sunil gabha koti balark divya aabha",
       "pahta bhatka amit shobha takiti dravanadik lobha",
       "bhaktajan kirti parisuniya taki nijlok harijan shok deyi sadlok",
@@ -249,6 +256,7 @@
     "name": "आरती अंबाबाईची । त्रिपुर सुंदरी ।",
     "search_txt": [
       "aarti ambabai chi tripur sundari renukechi",
+      "tripur sundari renukechi",
       "ujalonni hridaya gyan jyoti lavu vishaymoha vati",
       "smaruni mangalgun chitti karu ekagra sakalvrutti",
       "vivek aakalun svamati jeevan he apurva nijpriti",
@@ -260,6 +268,7 @@
     "name": "उदो उदो रेणुकेचा ।",
     "search_txt": [
       "udho udho renukecha amravati vas jicha",
+      "amravati vas jicha",
       "kantari vas kamala divtya ujaloni gondhal kela",
       "baraya tera sajati pude renuchi duhiti",
       "haar gala kavadiyancha mugutamani bahu ratnacha",
@@ -272,6 +281,7 @@
     "name": "ओवाळू आरती । शिवसांबे ।",
     "search_txt": [
       "oovalu aarti shivsambe trigun rupi rambhe",
+      "trigun rupi rambhe",
       "nandurigad nande jagadambe jay ho jay shri ambe",
       "ashtotar shat tirthe hi nirmele ho aai",
       "navanathasi ho kaliyugi shabari vidya deyi",
@@ -284,6 +294,7 @@
     "name": "आरती करू एकविरा ।",
     "search_txt": [
       "aarati karu ekvira ujaloni jyoti karpura",
+      "ujaloni jyoti karpura",
       "bhimkachi ji kul amba yeuni baisali jagadamba",
       "teje lopavi ravi bimba lajavi chandramukha amba",
       "nesali pitambara pivla lyali kancholi gala garasoli lavili bhali",
@@ -295,6 +306,7 @@
     "name": "आरती करितो जगदंबे ।",
     "search_txt": [
       "aarti karito jagadambe bhagawati kulaswamini ambe",
+      "bhagawati kulaswamini ambe",
       "hari kalpanti kari shayana sagari nabhi kamalsadana",
       "prarthana kari chaturvadana karaya madhukaitabha hanana",
       "ghei dhav vishnumaye zani yevuni bhaya varuni aasur maruni",
@@ -319,6 +331,7 @@
     "name": "आरती महालक्ष्मीची ।",
     "search_txt": [
       "aarti mahalaxmi chi krupalu jeshtha kanistha chi",
+      "krupalu jeshtha kanistha chi",
       "adimay tu jagadambe asashi jagaswamini ambe",
       "harihar mangal aarambhe pujiti twatpad avilambe",
       "varniti guna ved chari",
@@ -345,6 +358,7 @@
     "name": "आरती करूया एकवीराची।\\nगाऊनी मन मंजुळ स्वरांची।",
     "search_txt": [
       "aarati karu ya ekavira chi gauni mana manjula swaranchi",
+      "gauni mana manjula swaranchi",
       "swami janardana keli bhakti pragati karuna karuni shakti",
       "tari tanaya deuni tuzi preme gau bhavagitanchi"
     ]
@@ -354,6 +368,7 @@
     "name": "आरती एकविरा अंबा ।",
     "search_txt": [
       "aarti ekvira amba ovalite mi jagadamba",
+      "ovalite mi jagadamba",
       "aarti edwira amba owalite mi jagadamba",
       "banaras shalu choli jarichi angi uti kesharachi",
       "bhali kora kunkavachi kanthi mala sumananchi",
@@ -377,6 +392,8 @@
     "name": "आरती ब्रह्मकुमारीला ।",
     "search_txt": [
       "aarti bramha kumari la vageshwari sharadela",
+      "aarti bramhakumari la vageshwari sharadela",
+      "vageshwari sharadela",
       "nirmala shweta komalanga trigunatmika purna ranga",
       "satkati punya dharma sanga avidya pap tap bhanga",
       "mukhanbuja chandra bimba shobha",
@@ -411,6 +428,7 @@
     "name": "आरती त्रिजगदंबिकेची ।",
     "search_txt": [
       "aarti trijagadambikechi nirupamananda ambikechi",
+      "nirupamananda ambikechi",
       "divyambara indra vadana sundar kunda ruchir radana",
       "vidyudadambha bhas mana trinayana murti suprasanna",
       "moutikya chandra kunda dhavala",
@@ -423,6 +441,7 @@
     "name": "आरती जगन्मोहिनीची ।",
     "search_txt": [
       "aarti jaganmohinichi saguna nishkam dohinichi",
+      "saguna nishkam dohinichi",
       "udit martanda sahastra jaise bhavyatabhu dipyadipti vikase",
       "shudha jabunak kanak ase atyalankrut mandit vikase",
       "kankanhar nupurachi",
@@ -436,6 +455,7 @@
     "name": "अंबे चित्सुख कल्पलते।",
     "search_txt": [
       "ambe chitshukh kalpalate jay jay karunamrut sarite",
+      "jay jay karunamrut sarite",
       "avidya hota tamaharana jahla gyanoday purna",
       "arunodaya raktavarna mukhavar padte ravikiran",
       "ambe tuze namuni charan bhaskar karito pudhe bhraman",
@@ -461,6 +481,8 @@
     "name": "जय जय जगदंबे ।\\nश्री अंबे रेणुके । कल्पकदंबे।",
     "search_txt": [
       "jay jay jagadambe shree ambe renuke kalpa kadambe",
+      "shree ambe renuke kalpa kadambe",
+      "renuke kalpa kadambe",
       "anupam swarupachi tuzighati anya nase ya shrushti",
       "tuzasam rupa dusre parameshti karita zala kashti",
       "shashiras rasarasla vadanaputi divya sulochan drushti",
@@ -486,6 +508,8 @@
     "name": "जय जय ब्रम्हविलासी ।",
     "search_txt": [
       "jay jay brahmavilasi shree mrugarajachal rahivasi ho",
+      "brahmavilasi ",
+      "jay jay brahmavilasi",
       "darshan matre desi ambe shivpan sahaj jivasi ho",
       "tu adimay bhavani shree mulpithachi jagadamba ho",
       "aai bhargavramachi muni jamadagnichi vallabha ho",
@@ -508,7 +532,8 @@
     "name": "जय जय नदिपति।",
     "search_txt": [
       "jay jay nadipati priya tanaye bhavani mahalaxmi maye",
-      "jay jay nadepati preya tanaye bhavani mahalaxmi maye"
+      "jay jay nadepati preya tanaye bhavani mahalaxmi maye",
+      "bhavani mahalaxmi maye"
     ]
   },
   {
@@ -516,6 +541,7 @@
     "name": "जय जय रेणुके । सदा सदय तू ।",
     "search_txt": [
       "jay jay renuke sada saday tu prasanna rupamurti",
+      "sada saday tu prasanna rupamurti",
       "mrugarajachal pavak agh nag dahak mahivarti",
       "siddha sadhusam patit papinar namane uddharti",
       "din rakshak jagsaksha yashdhwaja chumbit gaganala",
@@ -541,6 +567,7 @@
     "name": "जय जय शिखरेश्वर भगवंते।",
     "search_txt": [
       "jay jay shikhareshwari bhagavante bhavani anusuye mate",
+      "bhavani anusuye mate",
       "kumkum kankan soubhagye aakhandit mandit vimlange",
       "shubhasani shobhasi anurage jaditmani makhar padmarage",
       "padmajatmak mansarange guru dattatraya maya gange",
@@ -554,6 +581,7 @@
     "name": "ही आदिमाया जगदंबा ।",
     "search_txt": [
       "he aadimaya jagadamba renuka kulaswamini amba",
+      "renuka kulaswamini amba",
       "jagrut karuni nirankara nirguna aanile aakara",
       "trividha guna lavuni sansara rachila jagadambar sara",
       "bhu jala teja gagan vara bahu tatvancha parivara",
@@ -567,6 +595,7 @@
     "name": "विपुल दयाधन गर्जे ।",
     "search_txt": [
       "vipul dayadhan garje tava hridayabari shri renuke ho",
+      "tava hridayabari shri renuke ho",
       "palabhar nara morachi karunavani hi aayake",
       "sharamalisa kheluni nachuni gondhal ghaluni bramhagani ho",
       "nijalisa kashi dinanchi chinta soduni antakarni ho",
@@ -611,7 +640,8 @@
       "charnamrut komale jaise jopatra bale o",
       "talve ati tejale tehi ahit ravi aagale o",
       "jadit sonsale khulkhul kariti charni val o",
-      "jana o taye vele dekhuni sansara vegle o"
+      "jana o taye vele dekhuni sansara vegle o",
+      "sundar tulja mata"
     ]
   },
   {
@@ -629,6 +659,7 @@
     "name": "पिंगळा भवानी जगदंबा ।",
     "search_txt": [
       "pingla bhavani jagadamba tarak vishwachi amba",
+      "tarak vishwachi amba",
       "aadimaya aadishakti chaitanyachi nija spurti",
       "mahishasur mardini ti shumbha nishumbha harini ti",
       "vishal gadavar vaas kari",
@@ -642,6 +673,7 @@
     "name": "निरुपम ही जगदंबा |",
     "search_txt": [
       "nirupam hi jagadamba vithabai sneha kadamba ho",
+      "vithabai sneha kadamba ho",
       "hi aabrahyasthamba rachili dharli may nitamba ho",
       "savitine melavi sadi nesuniya pivali ho",
       "mukhmandit savali jaise diste dhan savali ho",
@@ -687,6 +719,7 @@
     "name": "प्रथमा मुळरंभा (जुनी) । (1)",
     "search_txt": [
       "pratham mularambha ghatshobha toran makhar stambha",
+      "ghatshobha toran makhar stambha",
       "aarti jagadambe tuja ambe tarak vishwa kutumbe",
       "dusri hi puja tuja oojya ovalin sukhasahaja",
       ""
@@ -697,6 +730,7 @@
     "name": "प्रथमा मुळरंभा (नवी) । (2)",
     "search_txt": [
       "pratham mularambha ghatshobha toran makhar stambha",
+      "ghatshobha toran makhar stambha",
       "aarti jagadambe tuja ambe tarak vishwa kutumbe",
       "dusri hi puja tuja oojya ovalin sukhasahaja"
     ]
@@ -720,6 +754,7 @@
     "name": "मातापुरवासिनी । ",
     "search_txt": [
       "matapurvasini amba mazi kulaswamini ho",
+      "amba mazi kulaswamini ho",
       "mangaldayak may mhanti bhargavachi janani ho",
       "mangal maheswari may nande tukeshwari ho",
       "mohale javali sada ubhi tu sovali ho",
@@ -850,7 +885,8 @@
     "number": "73",
     "name": "जय जय आदिशक्ती प्रबले ।",
     "search_txt": [
-      "jay jay adishakti prabale aarti karito tuja kamale",
+      "jay jay adishakti prabale ",
+      "aarti karito tuja kamale",
       "varniti chaturved shramale fanivar sahastramukha thakle",
       "munivar nirjarvar sagle mahima atarkya tya nakale",
       "tribhuvan varad sukhad mate mandmati vanu kevi tute",
@@ -863,6 +899,7 @@
     "name": "जय जय चित्कल्लोळे ।",
     "search_txt": [
       "jay jay chitkallole turya dehe tava sakshini ho",
+      "turya dehe tava sakshini ho",
       "bramhasukanbuja charite bramha harihar tava chintani ho",
       "agadha mahima ambe mi ma vidye sanjivani ho",
       "agamya nigamagama keval kaivakya dayini ho"
@@ -873,6 +910,7 @@
     "name": "जय जय ओ जगदंबे । सच्चित बिंबे ।",
     "search_txt": [
       "jay jay o jagadambe sacchit bimbe shri bhagavati o",
+      "sacchit bimbe shri bhagavati o",
       "adhe bramhavidye swayambhu vidye adwait chitte o",
       "sarvahi sarvatmake saptashati tu mantramurti o",
       "shravne pathne havne bhajane deshil mukti mukti o"
@@ -883,6 +921,7 @@
     "name": "जय कुलस्वामिनी विंध्यनिवासीनी ।\\n(जय जय महिषासुरमर्दीनी | महालक्ष्मी तूं वरदे |)",
     "search_txt": [
       "jay jay kulaswamini vindhya nivasini girivar nandini nandanute",
+      "girivar nandini nandanute",
       "jay jay mahishasur mardini mahalaxmi tu var de",
       "mahalaxmi tu var de"
     ]
@@ -892,6 +931,7 @@
     "name": "जय जय आदीशक्ती अंबे।\\nआरती करीतो जगदंबे।",
     "search_txt": [
       "jay jay adishakti ambe aarti karito jagadambe",
+      "aarti karito jagadambe",
       "survar yeuni tav charni kariti tuzi mandharni",
       "yeuni staviti matesi vadhaya asur daityasi",
       "ashi ti adishakti maya",
@@ -904,6 +944,7 @@
     "name": "जय जय वैदर्भवासी अंबे ।\\nधांवत येई अविलंबे ।",
     "search_txt": [
       "jay jay vaidharbavasi ambe dhavat yei avilambe",
+      "dhavat yei avilambe",
       "jayde jayanti nam jiche mangala mangal kari vache",
       "kalika ripukadaniche bhadrakali kalyan kari sache",
       "kapalini kari rakshanasi",
@@ -917,6 +958,7 @@
     "name": "जय जगदंब महाकाली ।",
     "search_txt": [
       "jay jagadamba mahakali davirupa nijbhakta jwali",
+      "davirupa nijbhakta jwali",
       "tripur sundari nav jiche muktavali shiri jiche",
       "saral nasik dise jiche mudarakhdi shiri jiche",
       "kaltali veni jichi",
@@ -930,6 +972,7 @@
     "name": "जय जय सप्तशती ।",
     "search_txt": [
       "jay jay saptashati tav kirti anupam mantra murti",
+      "tav kirti anupam mantra murti",
       "bhajta bhaya harti shramharti tarak prema harti",
       "jyoti jya jyoti nijavrutti ujaluni anubhav vati",
       "ovalu priti tuja prati pradipta chinmay dipti",
@@ -957,7 +1000,8 @@
       "komal madhumaksi padmaxi anandamrut bhaksi",
       "antarvaisakshi kshirabdhi tanaya jadchetan rakshi",
       "jagamaya tejo mahima laxmi shri sundar laxmi",
-      "jay shri mahalaxmi"
+      "jay shri mahalaxmi",
+      "mangalnidhi mahalaxmi shri sundar laxmi"
     ]
   },
   {
@@ -965,6 +1009,7 @@
     "name": "जय जय त्रिपुरेशी |",
     "search_txt": [
       "jay jay tripureshi maa panchadashi prasanna ho bhuvaneshi",
+      "maa panchadashi prasanna ho bhuvaneshi",
       "kotika chandrakala shrivimala manikruta muktafala",
       "gunja arumala shribala bhali mrugamadatila",
       "prasanna mukhakamala tambola chapalankrut loula",
@@ -1026,6 +1071,7 @@
     "name": "जय जय आदिभवानी ।\\nअंबे मातापूरवासीनी ।",
     "search_txt": [
       "jay jay adi bhavani amba matapur vasini ho",
+      "amba matapur vasini ho",
       "chitkala kach malini nija jan palaye sukhdayini ho",
       "sihandri parvati nandasi nijasatte renuke ho",
       "purna bramha yogini jagi jan manas modake ho",
@@ -1063,6 +1109,7 @@
     "name": "जय आनंदकरी | (हिंदी)",
     "search_txt": [
       "jay anand kari ho maji shri anand kari",
+      "ho maji shri anand kari",
       "sukha sampatti sukhadayak bhava bhaya dukhha hari",
       "jay anandkari"
     ]
@@ -1098,6 +1145,7 @@
     "name": "जय देवी सप्तश्रृंगा ।",
     "search_txt": [
       "jay devi sapta shrunga amba gautami ganga",
+      "amba gautami ganga",
       "natali hi bahuranga uti shendur anga",
       "jay devi saptashrunga"
     ]
@@ -1119,6 +1167,7 @@
     "name": "जय देवी जय देवी जय विश्वंभरिते ।",
     "search_txt": [
       "jay devi jay devi jay vishvambharite",
+      "jay vishvambharite",
       "aarti ovalu tuja tulaje guna sarite",
       "suravar varadayini murahar sukhsadana",
       "partar par vasini arikul ripukadana",
@@ -1136,7 +1185,8 @@
       "jituke dise tituke tadrup zale",
       "tuziya prasade mama agyan harle",
       "jay devi jay devi jay shri jagadambe",
-      "aarti ovalito anand kadambe"
+      "aarti ovalito anand kadambe",
+      "anand kadambe"
     ]
   },
   {
@@ -1157,6 +1207,7 @@
     "name": "सुखसदने शशीवदने | अंबे मृगनयने ।\\n(जय वो जय अंबे)",
     "search_txt": [
       "sukhasadane shashivadane ambe mrugnayane",
+      "ambe mrugnayane",
       "gajagamane suranamane kolhasurmathane",
       "survarshati sumane karuniya namane",
       "bhaya harne sukhakarne sundaru shivramane",
@@ -1248,7 +1299,9 @@
       "santan pratipali sada khushali jay kali kalyan kare",
       "buddhi vidhata tu jagamata mera karan siddha kare",
       "charan kamalaka kiya aasra sharan tumhari aan pade",
-      "jab jab bhid pade bhaktanpar tab tab aap sahaya kare"
+      "jab jab bhid pade bhaktanpar tab tab aap sahaya kare",
+      "jay kali kalyan kare",
+      "jai kali kalyan kare"
     ]
   },
   {
@@ -1274,14 +1327,13 @@
     "number": "108",
     "name": "जोगवा (अनादि निर्गुण) ।\\n(आईचा जोगवा जोगवा मागेन)",
     "search_txt": [
-      "jogwa",
       "jogva",
       "anadi nirguni pragatali bhavani",
       "moha mahishasur mardila lagone",
       "trivida tapachi karavaya zadni",
       "bhakalagi vo pavasi nirvani",
       "aaicha jogva jogva jogva magena",
-      "aa icha jogwa jogwa jogwa magena"
+      "aaicha jogwa jogwa jogwa magena"
     ]
   },
   {
@@ -1328,7 +1380,8 @@
       "manaspujechi aarti",
       "manas puje chi aarti",
       "mahur gadavari tuza vaasa bhakta yeti darshanas",
-      "mahurgadavari tuza vaas bhakta yetil darshanas"
+      "mahurgadavari tuza vaas bhakta yetil darshanas",
+      "bhakta yeti darshanas"
     ]
   },
   {
@@ -1359,6 +1412,7 @@
     "name": "सुंदर हि पिंगळा।",
     "search_txt": [
       "sundar hi pingala smarata bhakta kari mangala ho",
+      "smarata bhakta kari mangala ho",
       "suratna padagula upama kothuni tya hingula ho"
     ]
   },
@@ -1401,7 +1455,8 @@
       "mitha pithacha jogva yaga bayani darbari",
       "mala jayche durvari mahurgadacha bajari",
       "mahur gadala jaina hirva chuda gheina",
-      "aaila chuda bharvina ga lavkar parat yaina"
+      "aaila chuda bharvina ga lavkar parat yaina",
+      "lavkar parat yaina"
     ]
   }
 ]
